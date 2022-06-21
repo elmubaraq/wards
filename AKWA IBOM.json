@@ -1,0 +1,1781 @@
+[{"LGAS":[
+  { "LGA NAME": "LGA NAME",
+    "LGA CODE": "LGA CODE",
+    "WARDS":[{
+      
+      "WARD NAME": "ABAK URBAN I",
+      "WARD CODE": "1"
+    },
+    {
+      
+      "WARD NAME": "ABAK URBAN II",
+      "WARD CODE": "2"
+    },
+    {
+      
+      "WARD NAME": "ABAK URBAN III",
+      "WARD CODE": "3"
+    },
+    {
+      
+      "WARD NAME": "ABAK URBAN IV",
+      "WARD CODE": "4"
+    },
+    {
+      
+      "WARD NAME": "AFAHA OBONG I",
+      "WARD CODE": "5"
+    },
+    {
+      
+      "WARD NAME": "AFAHA OBONG II",
+      "WARD CODE": "6"
+    },
+    {
+      
+      "WARD NAME": "MIDIM I",
+      "WARD CODE": "7"
+    },
+    {
+      
+      "WARD NAME": "MIDIM II",
+      "WARD CODE": "8"
+    },
+    {
+      
+      "WARD NAME": "OTORO I",
+      "WARD CODE": "9"
+    },
+    {
+      
+      "WARD NAME": "OTORO II",
+      "WARD CODE": "10"
+    },
+    {
+      
+      "WARD NAME": "OTORO III",
+      "WARD CODE": "11"
+    }]
+    
+  },
+  {"LGA NAME": "EASTERN OBOLO",
+    "LGA CODE": "2",
+    "WARDS":[{
+      
+      "WARD NAME": "EASTERN OBOLO I",
+      "WARD CODE": "1"
+    },
+    {
+      
+      "WARD NAME": "EASTERN OBOLO II",
+      "WARD CODE": "2"
+    },
+    {
+      
+      "WARD NAME": "EASTERN OBOLO III",
+      "WARD CODE": "3"
+    },
+    {
+      
+      "WARD NAME": "EASTERN OBOLO IV",
+      "WARD CODE": "4"
+    },
+    {
+      
+      "WARD NAME": "EASTERN OBOLO V",
+      "WARD CODE": "5"
+    },
+    {
+      
+      "WARD NAME": "EASTERN OBOLO VI",
+      "WARD CODE": "6"
+    },
+    {
+      
+      "WARD NAME": "EASTERN OBOLO VII",
+      "WARD CODE": "7"
+    },
+    {
+      
+      "WARD NAME": "EASTERN OBOLO VIII",
+      "WARD CODE": "8"
+    },
+    {
+      
+      "WARD NAME": "EASTERN OBOLO IX",
+      "WARD CODE": "9"
+    },
+    {
+      
+      "WARD NAME": "EASTERN OBOLO X",
+      "WARD CODE": "10"
+    }]
+    
+  },
+  {"LGA NAME": "EKET",
+  "LGA CODE": "3",
+    "WARDS":[ {
+      
+      "WARD NAME": "EKET URBAN I",
+      "WARD CODE": "1"
+    },
+    {
+      
+      "WARD NAME": "EKET URBAN II",
+      "WARD CODE": "2"
+    },
+    {
+      
+      "WARD NAME": "EKET URBAN III",
+      "WARD CODE": "3"
+    },
+    {
+      
+      "WARD NAME": "EKET URBAN IV",
+      "WARD CODE": "4"
+    },
+    {
+      
+      "WARD NAME": "EKET CENTRAL I",
+      "WARD CODE": "5"
+    },
+    {
+      
+      "WARD NAME": "EKET CENTRAL II",
+      "WARD CODE": "6"
+    },
+    {
+      
+      "WARD NAME": "EKET CENTRAL III",
+      "WARD CODE": "7"
+    },
+    {
+      
+      "WARD NAME": "EKET CENTRAL IV",
+      "WARD CODE": "8"
+    },
+    {
+      
+      "WARD NAME": "EKET CENTRAL V",
+      "WARD CODE": "9"
+    },
+    {
+      
+      "WARD NAME": "OKON I",
+      "WARD CODE": "10"
+    },
+    {
+      
+      "WARD NAME": "OKON II",
+      "WARD CODE": "11"
+    }]
+    
+  },
+  { "LGA NAME": "ESIT EKET (UQUO)",
+    "LGA CODE": "4",
+    "WARDS":[ {
+     
+      "WARD NAME": "EKPENE OBO",
+      "WARD CODE": "1"
+    },
+    {
+      
+      "WARD NAME": "EDOR",
+      "WARD CODE": "2"
+    },
+    {
+      
+      "WARD NAME": "EBE EKPI",
+      "WARD CODE": "3"
+    },
+    {
+      
+      "WARD NAME": "IKPA",
+      "WARD CODE": "4"
+    },
+    {
+      
+      "WARD NAME": "UQUO",
+      "WARD CODE": "5"
+    },
+    {
+      
+      "WARD NAME": "EBIGHI OKPONO",
+      "WARD CODE": "6"
+    },
+    {
+      
+      "WARD NAME": "ETEBI IDUNG ASSAN",
+      "WARD CODE": "7"
+    },
+    {
+      
+      "WARD NAME": "ETEBI AKWATA",
+      "WARD CODE": "8"
+    },
+    {
+      
+      "WARD NAME": "AKPAUTONG",
+      "WARD CODE": "9"
+    },
+    {
+      
+      "WARD NAME": "NTAK INYANG",
+      "WARD CODE": "10"
+    },
+    {
+      "LGA NAME": "ESSIEN UDIM",
+      "LGA CODE": "5",
+      "WARD NAME": "ADIASIM",
+      "WARD CODE": "1"
+    },
+    {
+      
+      "WARD NAME": "AFAHA",
+      "WARD CODE": "2"
+    },
+    {
+      
+      "WARD NAME": "EKPENEYONG I",
+      "WARD CODE": "3"
+    },
+    {
+      
+      "WARD NAME": "EKPENYONG II",
+      "WARD CODE": "4"
+    },
+    {
+      
+      "WARD NAME": "IKPE ANNANG",
+      "WARD CODE": "5"
+    },
+    {
+      
+      "WARD NAME": "ODORO IKO I",
+      "WARD CODE": "6"
+    },
+    {
+      
+      "WARD NAME": "ODORO IKOT II",
+      "WARD CODE": "7"
+    },
+    {
+      
+      "WARD NAME": "OKON",
+      "WARD CODE": "8"
+    },
+    {
+      
+      "WARD NAME": "UKANA EAST",
+      "WARD CODE": "9"
+    },
+    {
+      
+      "WARD NAME": "UKANA WEST I",
+      "WARD CODE": "10"
+    },
+    {
+      
+      "WARD NAME": "UKANA WEST II",
+      "WARD CODE": "11"
+    }]
+    
+  },
+  { "LGA NAME": "ETIM EKPO",
+    "LGA CODE": "6",
+    "WARDS":[{
+     
+      "WARD NAME": "ETIM EKPO I",
+      "WARD CODE": "1"
+    },
+    {
+      
+      "WARD NAME": "ETIM EKPO II",
+      "WARD CODE": "2"
+    },
+    {
+      
+      "WARD NAME": "ETIM EKPO III",
+      "WARD CODE": "3"
+    },
+    {
+      
+      "WARD NAME": "ETIM EKPO IV",
+      "WARD CODE": "4"
+    },
+    {
+      
+      "WARD NAME": "ETIM EKPO V",
+      "WARD CODE": "5"
+    },
+    {
+      
+      "WARD NAME": "ETIM EKPO VI",
+      "WARD CODE": "6"
+    },
+    {
+      
+      "WARD NAME": "ETIM EKPO VII",
+      "WARD CODE": "7"
+    },
+    {
+      
+      "WARD NAME": "ETIM EKPO VIII",
+      "WARD CODE": "8"
+    },
+    {
+      
+      "WARD NAME": "ETIM EKPO IX",
+      "WARD CODE": "9"
+    },
+    {
+      
+      "WARD NAME": "ETIM EKPO X",
+      "WARD CODE": "10"
+    }]
+    
+  },
+  { "LGA NAME": "ETINAN",
+    "LGA CODE": "7",
+    "WARDS":[{
+     
+      "WARD NAME": "ETINAN URBAN I",
+      "WARD CODE": "1"
+    },
+    {
+      
+      "WARD NAME": "ETINAN URBAN II",
+      "WARD CODE": "2"
+    },
+    {
+      
+      "WARD NAME": "ETINAN URBAN III",
+      "WARD CODE": "3"
+    },
+    {
+      
+      "WARD NAME": "ETINAN URBAN IV",
+      "WARD CODE": "4"
+    },
+    {
+      
+      "WARD NAME": "ETINAN URBAN V",
+      "WARD CODE": "5"
+    },
+    {
+      
+      "WARD NAME": "SOUTHERN IMAN I",
+      "WARD CODE": "6"
+    },
+    {
+      
+      "WARD NAME": "SOUTHERN IMAN II",
+      "WARD CODE": "7"
+    },
+    {
+      
+      "WARD NAME": "SOUTHERN IMAN III",
+      "WARD CODE": "8"
+    },
+    {
+      
+      "WARD NAME": "SOUTHERN IMAN IV",
+      "WARD CODE": "9"
+    },
+    {
+      
+      "WARD NAME": "NORTHERN IMAN I",
+      "WARD CODE": "10"
+    },
+    {
+      
+      "WARD NAME": "NORTHERN IMAN II",
+      "WARD CODE": "11"
+    }]
+    
+  },
+  {"LGA NAME": "IBENO",
+    "LGA CODE": "8",
+    "WARDS":[ {
+      
+      "WARD NAME": "IBENO I",
+      "WARD CODE": "1"
+    },
+    {
+      
+      "WARD NAME": "IBENO I",
+      "WARD CODE": "2"
+    },
+    {
+      
+      "WARD NAME": "IBENO I",
+      "WARD CODE": "3"
+    },
+    {
+      
+      "WARD NAME": "IBENO I",
+      "WARD CODE": "4"
+    },
+    {
+      
+      "WARD NAME": "IBENO I",
+      "WARD CODE": "5"
+    },
+    {
+      
+      "WARD NAME": "IBENO I",
+      "WARD CODE": "6"
+    },
+    {
+      
+      "WARD NAME": "IBENO I",
+      "WARD CODE": "7"
+    },
+    {
+      
+      "WARD NAME": "IBENO I",
+      "WARD CODE": "8"
+    },
+    {
+      
+      "WARD NAME": "IBENO I",
+      "WARD CODE": "9"
+    },
+    {
+      
+      "WARD NAME": "IBENO I",
+      "WARD CODE": "10"
+    }]
+    
+  },
+  {"LGA NAME": "IBESIKPO/ASUTAN",
+    "LGA CODE": "9",
+    "WARDS":[{
+      
+      "WARD NAME": "IBESIKPO I",
+      "WARD CODE": "1"
+    },
+    {
+      
+      "WARD NAME": "IBESIKPO II",
+      "WARD CODE": "2"
+    },
+    {
+      
+      "WARD NAME": "IBESIKPO III",
+      "WARD CODE": "3"
+    },
+    {
+      
+      "WARD NAME": "IBESIKPO IV",
+      "WARD CODE": "4"
+    },
+    {
+      
+      "WARD NAME": "IBESIKPO V",
+      "WARD CODE": "5"
+    },
+    {
+      
+      "WARD NAME": "AUSTAN I",
+      "WARD CODE": "6"
+    },
+    {
+      
+      "WARD NAME": "AUSTAN II",
+      "WARD CODE": "7"
+    },
+    {
+      
+      "WARD NAME": "AUSTAN III",
+      "WARD CODE": "8"
+    },
+    {
+      
+      "WARD NAME": "AUSTAN IV",
+      "WARD CODE": "9"
+    },
+    {
+      
+      "WARD NAME": "AUSTAN V",
+      "WARD CODE": "10"
+    }]
+    
+  },
+  {"LGA NAME": "IBIONO IBOM",
+    "LGA CODE": "10",
+    "WARDS":[{
+      
+      "WARD NAME": "IBIONO EASTERN I",
+      "WARD CODE": "1"
+    },
+    {
+      
+      "WARD NAME": "IBIONO EASTERN II",
+      "WARD CODE": "2"
+    },
+    {
+      
+      "WARD NAME": "IBIONO WESTERN I",
+      "WARD CODE": "3"
+    },
+    {
+      
+      "WARD NAME": "IBIONO WESTERN II",
+      "WARD CODE": "4"
+    },
+    {
+      
+      "WARD NAME": "IBIONO SOUTHERN I",
+      "WARD CODE": "5"
+    },
+    {
+      
+      "WARD NAME": "IBIONO SOURTHERN II",
+      "WARD CODE": "6"
+    },
+    {
+      
+      "WARD NAME": "IBIONO NORTHERN I",
+      "WARD CODE": "7"
+    },
+    {
+      
+      "WARD NAME": "IBIONO NORTHERN II",
+      "WARD CODE": "8"
+    },
+    {
+      
+      "WARD NAME": "IBIONO CENTRAL I",
+      "WARD CODE": "9"
+    },
+    {
+      
+      "WARD NAME": "IBIONO CENTRAL II",
+      "WARD CODE": "10"
+    },
+    {
+      
+      "WARD NAME": "IKPANYA",
+      "WARD CODE": "11"
+    }]
+    
+  },
+  { "LGA NAME": "IKA",
+    "LGA CODE": "11",
+    "WARDS":[ {
+     
+      "WARD NAME": "IKA URBAN",
+      "WARD CODE": "1"
+    },
+    {
+      
+      "WARD NAME": "IKA URBAN",
+      "WARD CODE": "2"
+    },
+    {
+      
+      "WARD NAME": "ACHAN I",
+      "WARD CODE": "3"
+    },
+    {
+      
+      "WARD NAME": "ACHAN II",
+      "WARD CODE": "4"
+    },
+    {
+      
+      "WARD NAME": "ACHAN III",
+      "WARD CODE": "5"
+    },
+    {
+      
+      "WARD NAME": "ITIO I",
+      "WARD CODE": "6"
+    },
+    {
+      
+      "WARD NAME": "ITIO II",
+      "WARD CODE": "7"
+    },
+    {
+      
+      "WARD NAME": "ITIO III",
+      "WARD CODE": "8"
+    },
+    {
+      
+      "WARD NAME": "ODORO I",
+      "WARD CODE": "9"
+    },
+    {
+      
+      "WARD NAME": "ODORO II",
+      "WARD CODE": "10"
+    }]
+    
+  },
+  {"LGA NAME": "IKONO",
+    "LGA CODE": "12",
+    "WARDS":[{
+      
+      "WARD NAME": "IKONO MIDDLE I",
+      "WARD CODE": "1"
+    },
+    {
+      
+      "WARD NAME": "IKONO MIDDLE II",
+      "WARD CODE": "2"
+    },
+    {
+      
+      "WARD NAME": "IKONO MIDDLE III",
+      "WARD CODE": "3"
+    },
+    {
+      
+      "WARD NAME": "IKONO MIDDLE IV",
+      "WARD CODE": "4"
+    },
+    {
+      
+      "WARD NAME": "IKONO SOUTH",
+      "WARD CODE": "5"
+    },
+    {
+      
+      "WARD NAME": "NKWO I",
+      "WARD CODE": "6"
+    },
+    {
+      
+      "WARD NAME": "NKWO II",
+      "WARD CODE": "7"
+    },
+    {
+      
+      "WARD NAME": "NDIYA/IKOT IDANA",
+      "WARD CODE": "8"
+    },
+    {
+      
+      "WARD NAME": "EDIENE I",
+      "WARD CODE": "9"
+    },
+    {
+      
+      "WARD NAME": "EDIENE II",
+      "WARD CODE": "10"
+    },
+    {
+      
+      "WARD NAME": "ITAK",
+      "WARD CODE": "11"
+    }]
+    
+  },
+  { "LGA NAME": "IKOT ABASI",
+    "LGA CODE": "13",
+    "WARDS":[{
+      
+      "WARD NAME": "IKPA EBEKWE I",
+      "WARD CODE": "1"
+    },
+    {
+      
+      "WARD NAME": "IKPA EBEKWE II",
+      "WARD CODE": "2"
+    },
+    {
+      
+      "WARD NAME": "UKPUM ETE I",
+      "WARD CODE": "3"
+    },
+    {
+      
+      "WARD NAME": "UKPUM ETE II",
+      "WARD CODE": "4"
+    },
+    {
+      
+      "WARD NAME": "UKPUM OKON",
+      "WARD CODE": "5"
+    },
+    {
+      
+      "WARD NAME": "EDEMAYA I",
+      "WARD CODE": "6"
+    },
+    {
+      
+      "WARD NAME": "EDEMAYA II",
+      "WARD CODE": "7"
+    },
+    {
+      
+      "WARD NAME": "EDEMAYA III",
+      "WARD CODE": "8"
+    },
+    {
+      
+      "WARD NAME": "IKPA NUNG ASANG I",
+      "WARD CODE": "9"
+    },
+    {
+      
+      "WARD NAME": "IKPA NUNG ASANG II",
+      "WARD CODE": "10"
+    }]
+    
+  },
+  { "LGA NAME": "IKOT EKPENE",
+    "LGA CODE": "14",
+    "WARDS":[{
+      
+      "WARD NAME": "IKOT EKPENE I",
+      "WARD CODE": "1"
+    },
+    {
+      
+      "WARD NAME": "IKOT EKPENE II",
+      "WARD CODE": "2"
+    },
+    {
+      
+      "WARD NAME": "IKOT EKPENE III",
+      "WARD CODE": "3"
+    },
+    {
+      
+      "WARD NAME": "IKOT EKPENE IV",
+      "WARD CODE": "4"
+    },
+    {
+      
+      "WARD NAME": "IKOT EKPENE V",
+      "WARD CODE": "5"
+    },
+    {
+      
+      "WARD NAME": "IKOT EKPENE VI",
+      "WARD CODE": "6"
+    },
+    {
+      
+      "WARD NAME": "IKOT EKPENE VII",
+      "WARD CODE": "7"
+    },
+    {
+      
+      "WARD NAME": "IKOT EKPENE VIII",
+      "WARD CODE": "8"
+    },
+    {
+      
+      "WARD NAME": "IKOT EKPENE IX",
+      "WARD CODE": "9"
+    },
+    {
+      
+      "WARD NAME": "IKOT EKPENE X",
+      "WARD CODE": "10"
+    },
+    {
+      
+      "WARD NAME": "IKOT EKPENE XI",
+      "WARD CODE": "11"
+    }]
+    
+  },
+  { "LGA NAME": "INI",
+    "LGA CODE": "15",
+    "WARDS":[
+      {
+        
+        "WARD NAME": "IKPE I",
+        "WARD CODE": "1"
+      },
+      {
+        
+        "WARD NAME": "IKPE II",
+        "WARD CODE": "2"
+      },
+      {
+        
+        "WARD NAME": "ITU MBONUSO",
+        "WARD CODE": "3"
+      },
+      {
+        
+        "WARD NAME": "NKARI",
+        "WARD CODE": "4"
+      },
+      {
+        
+        "WARD NAME": "IWERRE",
+        "WARD CODE": "5"
+      },
+      {
+        
+        "WARD NAME": "IKONO NORTH I",
+        "WARD CODE": "6"
+      },
+      {
+        
+        "WARD NAME": "IKONO NORTH II",
+        "WARD CODE": "7"
+      },
+      {
+        
+        "WARD NAME": "IKONO NORTH III",
+        "WARD CODE": "8"
+      },
+      {
+        
+        "WARD NAME": "ODORO UKWOK",
+        "WARD CODE": "9"
+      },
+      {
+        
+        "WARD NAME": "USUK UKWOK",
+        "WARD CODE": "10"
+      }]
+    
+  },
+  { "LGA NAME": "ITU",
+    "LGA CODE": "16",
+    "WARDS":[{
+      
+      "WARD NAME": "OKU IBOKU",
+      "WARD CODE": "1"
+    },
+    {
+      
+      "WARD NAME": "MBIABO/AYADEHE",
+      "WARD CODE": "2"
+    },
+    {
+      
+      "WARD NAME": "EAST IAM I",
+      "WARD CODE": "3"
+    },
+    {
+      
+      "WARD NAME": "EAST ITAM II",
+      "WARD CODE": "4"
+    },
+    {
+      
+      "WARD NAME": "EAST ITAM III",
+      "WARD CODE": "5"
+    },
+    {
+      
+      "WARD NAME": "EAST ITAM IV",
+      "WARD CODE": "6"
+    },
+    {
+      
+      "WARD NAME": "EAST ITAM V",
+      "WARD CODE": "7"
+    },
+    {
+      
+      "WARD NAME": "WEST ITAM I",
+      "WARD CODE": "8"
+    },
+    {
+      
+      "WARD NAME": "WEST ITAM II",
+      "WARD CODE": "9"
+    },
+    {
+      
+      "WARD NAME": "WEST ITAM III",
+      "WARD CODE": "10"
+    }]
+    
+  },
+  { "LGA NAME": "MBO",
+    "LGA CODE": "17",
+    "WARDS":[{
+      
+      "WARD NAME": "ENWANG I",
+      "WARD CODE": "1"
+    },
+    {
+      
+      "WARD NAME": "EWANG II",
+      "WARD CODE": "2"
+    },
+    {
+      
+      "WARD NAME": "EBUCHU I",
+      "WARD CODE": "3"
+    },
+    {
+      
+      "WARD NAME": "EBUCHU II",
+      "WARD CODE": "4"
+    },
+    {
+      
+      "WARD NAME": "UDESI",
+      "WARD CODE": "5"
+    },
+    {
+      
+      "WARD NAME": "EFFIAT I",
+      "WARD CODE": "6"
+    },
+    {
+      
+      "WARD NAME": "EFFIAT II",
+      "WARD CODE": "7"
+    },
+    {
+      
+      "WARD NAME": "IBAKA",
+      "WARD CODE": "8"
+    },
+    {
+      
+      "WARD NAME": "UDA I",
+      "WARD CODE": "9"
+    },
+    {
+      
+      "WARD NAME": "UDA II",
+      "WARD CODE": "10"
+    }]
+    
+  },
+  { "LGA NAME": "MKPAT ENIN",
+    "LGA CODE": "18",
+    "WARDS":[{
+      
+      "WARD NAME": "UKPUM MINYA I",
+      "WARD CODE": "1"
+    },
+    {
+      
+      "WARD NAME": "UKPUM MINYA II",
+      "WARD CODE": "2"
+    },
+    {
+      
+      "WARD NAME": "UKPUM MINYA III",
+      "WARD CODE": "3"
+    },
+    {
+      
+      "WARD NAME": "UKPUM IV",
+      "WARD CODE": "4"
+    },
+    {
+      
+      "WARD NAME": "IKPA IBOM I",
+      "WARD CODE": "5"
+    },
+    {
+      
+      "WARD NAME": "IKPA IBOM II",
+      "WARD CODE": "6"
+    },
+    {
+      
+      "WARD NAME": "IKPA IBOM III",
+      "WARD CODE": "7"
+    },
+    {
+      
+      "WARD NAME": "IKPA IBOM IV",
+      "WARD CODE": "8"
+    },
+    {
+      
+      "WARD NAME": "IBIAKU I",
+      "WARD CODE": "9"
+    },
+    {
+      
+      "WARD NAME": "IBIAKU II",
+      "WARD CODE": "10"
+    },
+    {
+      
+      "WARD NAME": "IBIAKU III",
+      "WARD CODE": "11"
+    },
+    {
+      
+      "WARD NAME": "IKPA IKONO I",
+      "WARD CODE": "12"
+    },
+    {
+      
+      "WARD NAME": "IKPA IKONO II",
+      "WARD CODE": "13"
+    },
+    {
+      
+      "WARD NAME": "IKPA IKONO III",
+      "WARD CODE": "14"
+    }]
+    
+  },
+  { "LGA NAME": "NSIT ATAI",
+    "LGA CODE": "19",
+    "WARDS":[{
+      
+      "WARD NAME": "EASTERN NSIT I",
+      "WARD CODE": "1"
+    },
+    {
+      
+      "WARD NAME": "EASTERN NSIT II",
+      "WARD CODE": "2"
+    },
+    {
+      
+      "WARD NAME": "EASTERN NSIT III",
+      "WARD CODE": "3"
+    },
+    {
+      
+      "WARD NAME": "EASTERN NSIT IV",
+      "WARD CODE": "4"
+    },
+    {
+      
+      "WARD NAME": "EASTERN NSIT V",
+      "WARD CODE": "5"
+    },
+    {
+      
+      "WARD NAME": "EASTERN NSIT VI",
+      "WARD CODE": "6"
+    },
+    {
+      
+      "WARD NAME": "EASTERN NSIT VII",
+      "WARD CODE": "7"
+    },
+    {
+      
+      "WARD NAME": "EASTERN NSIT VIII",
+      "WARD CODE": "8"
+    },
+    {
+      
+      "WARD NAME": "EASTERN NSIT IX",
+      "WARD CODE": "9"
+    },
+    {
+      
+      "WARD NAME": "EASTERN NSIT X",
+      "WARD CODE": "10"
+    }]
+    
+  },{"LGA NAME": "ABAK",
+    "LGA CODE": "1",
+    "WARDS":[ {
+      "LGA NAME": "NSIT IBOM",
+      "LGA CODE": "20",
+      "WARD NAME": "ASANG I",
+      "WARD CODE": "1"
+    },
+    {
+      
+      "WARD NAME": "ASANG II",
+      "WARD CODE": "2"
+    },
+    {
+      
+      "WARD NAME": "ASANG III",
+      "WARD CODE": "3"
+    },
+    {
+      
+      "WARD NAME": "ASANG IV",
+      "WARD CODE": "4"
+    },
+    {
+      
+      "WARD NAME": "ASANG V",
+      "WARD CODE": "5"
+    },
+    {
+      
+      "WARD NAME": "MBIASO I",
+      "WARD CODE": "6"
+    },
+    {
+      
+      "WARD NAME": "MBIASO II",
+      "WARD CODE": "7"
+    },
+    {
+      
+      "WARD NAME": "MBIASO III",
+      "WARD CODE": "8"
+    },
+    {
+      
+      "WARD NAME": "MBIASO IV",
+      "WARD CODE": "9"
+    },
+    {
+      
+      "WARD NAME": "MBIASO V",
+      "WARD CODE": "10"
+    }]
+    
+  },{"LGA NAME": "NSIT UBIUM",
+    "LGA CODE": "21",
+    "WARDS":[ {
+      
+      "WARD NAME": "IBIAKPAN/OBOTIM I",
+      "WARD CODE": "1"
+    },
+    {
+      
+      "WARD NAME": "IBIAKPAN/OBOTIM II",
+      "WARD CODE": "2"
+    },
+    {
+      
+      "WARD NAME": "ITRETO",
+      "WARD CODE": "3"
+    },
+    {
+      
+      "WARD NAME": "NDIYA",
+      "WARD CODE": "4"
+    },
+    {
+      
+      "WARD NAME": "UBIUM NORTH I",
+      "WARD CODE": "5"
+    },
+    {
+      
+      "WARD NAME": "UBIUM NORTH II",
+      "WARD CODE": "6"
+    },
+    {
+      
+      "WARD NAME": "UBIUM NORTH III",
+      "WARD CODE": "7"
+    },
+    {
+      
+      "WARD NAME": "UBIUM SOUTH I",
+      "WARD CODE": "8"
+    },
+    {
+      
+      "WARD NAME": "UBIUM SOUTH II",
+      "WARD CODE": "9"
+    },
+    {
+      
+      "WARD NAME": "UBIUM SOUTH III",
+      "WARD CODE": "10"
+    }]
+    
+  },
+  {"LGA NAME": "OBOT AKARA",
+    "LGA CODE": "22",
+    "WARDS":[ {
+      
+      "WARD NAME": "IKOT ABIA I",
+      "WARD CODE": "1"
+    },
+    {
+      
+      "WARD NAME": "IKOT ABIA II",
+      "WARD CODE": "2"
+    },
+    {
+      
+      "WARD NAME": "IKOT ABIA III",
+      "WARD CODE": "3"
+    },
+    {
+      
+      "WARD NAME": "OBOT AKARA I",
+      "WARD CODE": "4"
+    },
+    {
+      
+      "WARD NAME": "OBOT AKARA II",
+      "WARD CODE": "5"
+    },
+    {
+      
+      "WARD NAME": "OBOT AKARA III",
+      "WARD CODE": "6"
+    },
+    {
+      
+      "WARD NAME": "NTO EDINO I",
+      "WARD CODE": "7"
+    },
+    {
+      
+      "WARD NAME": "NTO EDINO II",
+      "WARD CODE": "8"
+    },
+    {
+      
+      "WARD NAME": "NTO EDINO III",
+      "WARD CODE": "9"
+    },
+    {
+      
+      "WARD NAME": "NTO EDINO IV",
+      "WARD CODE": "10"
+    }]
+    
+  },{"LGA NAME": "KOBO",
+    "LGA CODE": "23",
+    "WARDS":[{
+      
+      "WARD NAME": "OKOPEDI I",
+      "WARD CODE": "1"
+    },
+    {
+      
+      "WARD NAME": "OKOPEDI II",
+      "WARD CODE": "2"
+    },
+    {
+      
+      "WARD NAME": "NUNG ATI/UBE I",
+      "WARD CODE": "3"
+    },
+    {
+      
+      "WARD NAME": "NUNG ATAI/UBE II",
+      "WARD CODE": "4"
+    },
+    {
+      
+      "WARD NAME": "AKAI/MBOKPU/UDUNG",
+      "WARD CODE": "5"
+    },
+    {
+      
+      "WARD NAME": "EWEME I",
+      "WARD CODE": "6"
+    },
+    {
+      
+      "WARD NAME": "EWEME II",
+      "WARD CODE": "7"
+    },
+    {
+      
+      "WARD NAME": "OFFI I",
+      "WARD CODE": "8"
+    },
+    {
+      
+      "WARD NAME": "OFFI II",
+      "WARD CODE": "9"
+    },
+    {
+      
+      "WARD NAME": "EKEYA",
+      "WARD CODE": "10"
+    }]
+    
+  },
+  {"LGA NAME": "ONNAA",
+    "LGA CODE": "24",
+    "WARDS":[ {
+      
+      "WARD NAME": "AWA I",
+      "WARD CODE": "1"
+    },
+    {
+      
+      "WARD NAME": "AWA II",
+      "WARD CODE": "2"
+    },
+    {
+      
+      "WARD NAME": "AWA III",
+      "WARD CODE": "3"
+    },
+    {
+      
+      "WARD NAME": "AWA IV",
+      "WARD CODE": "4"
+    },
+    {
+      
+      "WARD NAME": "NUNG UDEM  I",
+      "WARD CODE": "5"
+    },
+    {
+      
+      "WARD NAME": "NUNG UDEM II",
+      "WARD CODE": "6"
+    },
+    {
+      
+      "WARD NAME": "ONIONG EAST I",
+      "WARD CODE": "7"
+    },
+    {
+      
+      "WARD NAME": "ONIONG EAST II",
+      "WARD CODE": "8"
+    },
+    {
+      
+      "WARD NAME": "ONIONG EAST III",
+      "WARD CODE": "9"
+    },
+    {
+      
+      "WARD NAME": "ONIONG WEST I",
+      "WARD CODE": "10"
+    },
+    {
+      
+      "WARD NAME": "ONIONG WEST II",
+      "WARD CODE": "11"
+    },
+    {
+      
+      "WARD NAME": "ONIONG EAST III",
+      "WARD CODE": "12"
+    }]
+    
+  }
+  ,
+  {"LGA NAME": "ORON",
+    "LGA CODE": "25",
+    "WARDS":[{
+      
+      "WARD NAME": "ORON URBAN I",
+      "WARD CODE": "1"
+    },
+    {
+      
+      "WARD NAME": "ORON URBAN II",
+      "WARD CODE": "2"
+    },
+    {
+      
+      "WARD NAME": "ORON URBAN III",
+      "WARD CODE": "3"
+    },
+    {
+      
+      "WARD NAME": "ORON URBAN IV",
+      "WARD CODE": "4"
+    },
+    {
+      
+      "WARD NAME": "ORON URBAN V",
+      "WARD CODE": "5"
+    },
+    {
+      
+      "WARD NAME": "ORON URBAN VI",
+      "WARD CODE": "6"
+    },
+    {
+      
+      "WARD NAME": "ORON URBAN VII",
+      "WARD CODE": "7"
+    },
+    {
+      
+      "WARD NAME": "ORON URBAN VIII",
+      "WARD CODE": "8"
+    },
+    {
+      
+      "WARD NAME": "ORON URBAN IX",
+      "WARD CODE": "9"
+    },
+    {
+      
+      "WARD NAME": "ORON URBAN X",
+      "WARD CODE": "10"
+    }]
+    
+  },
+  {  "LGA NAME": "ORUKANAM",
+    "LGA CODE": "26",
+    "WARDS":[{
+     
+      "WARD NAME": "IKOT IBRITAM I",
+      "WARD CODE": "1"
+    },
+    {
+      
+      "WARD NAME": "IKOT IBRITAM II",
+      "WARD CODE": "2"
+    },
+    {
+      
+      "WARD NAME": "NDOT/IK.OKORO I",
+      "WARD CODE": "3"
+    },
+    {
+      
+      "WARD NAME": "NDOT/IK. OKORO II",
+      "WARD CODE": "4"
+    },
+    {
+      
+      "WARD NAME": "NDOT/IK. OKORO III",
+      "WARD CODE": "5"
+    },
+    {
+      
+      "WARD NAME": "IBESIT",
+      "WARD CODE": "6"
+    },
+    {
+      
+      "WARD NAME": "EKPARAKWA",
+      "WARD CODE": "7"
+    },
+    {
+      
+      "WARD NAME": "ABAK MIDIM I",
+      "WARD CODE": "8"
+    },
+    {
+      
+      "WARD NAME": "ABAK MIDIM II",
+      "WARD CODE": "9"
+    },
+    {
+      
+      "WARD NAME": "ABAK MIDIM III",
+      "WARD CODE": "10"
+    },
+    {
+      
+      "WARD NAME": "ABAK MIDIMI IV",
+      "WARD CODE": "11"
+    },
+    {
+      
+      "WARD NAME": "IBESIT/NUNG IKOT I",
+      "WARD CODE": "12"
+    },
+    {
+      
+      "WARD NAME": "IBESIT/NUNG IKOT II",
+      "WARD CODE": "13"
+    }]
+    
+  },
+  { "LGA NAME": "UDUNG UKO",
+    "LGA CODE": "27",
+    "WARDS":[{
+      
+      "WARD NAME": "UDUNG UKO I",
+      "WARD CODE": "1"
+    },
+    {
+      
+      "WARD NAME": "UDUNG UKO II",
+      "WARD CODE": "2"
+    },
+    {
+      
+      "WARD NAME": "UDUNG UKO III",
+      "WARD CODE": "3"
+    },
+    {
+      
+      "WARD NAME": "UDUNG UKO IV",
+      "WARD CODE": "4"
+    },
+    {
+      
+      "WARD NAME": "UDUNG UKO V",
+      "WARD CODE": "5"
+    },
+    {
+      
+      "WARD NAME": "UDUNG UKO VI",
+      "WARD CODE": "6"
+    },
+    {
+      
+      "WARD NAME": "UDUNG UKO VII",
+      "WARD CODE": "7"
+    },
+    {
+      
+      "WARD NAME": "UDUNG UKO VIII",
+      "WARD CODE": "8"
+    },
+    {
+      
+      "WARD NAME": "UDUNG UKO IX",
+      "WARD CODE": "9"
+    },
+    {
+      
+      "WARD NAME": "UDUNG UKO X",
+      "WARD CODE": "10"
+    }]
+    
+  },
+  {"LGA NAME": "UKANAFUN",
+    "LGA CODE": "28",
+    "WARDS":[{
+      
+      "WARD NAME": "UKANAFUN URBAN",
+      "WARD CODE": "1"
+    },
+    {
+      
+      "WARD NAME": "SOUTHERN UKANAFUN I",
+      "WARD CODE": "2"
+    },
+    {
+      
+      "WARD NAME": "SOUTHERN UKANAFUN II",
+      "WARD CODE": "3"
+    },
+    {
+      
+      "WARD NAME": "NORTHERN UKANAFUN I",
+      "WARD CODE": "4"
+    },
+    {
+      
+      "WARD NAME": "NORTHERN UKANAFUN II",
+      "WARD CODE": "5"
+    },
+    {
+      
+      "WARD NAME": "NORTHERN AFAHA I",
+      "WARD CODE": "6"
+    },
+    {
+      
+      "WARD NAME": "NORTHERN AFAHA II",
+      "WARD CODE": "7"
+    },
+    {
+      
+      "WARD NAME": "SOUTHERN AFAHA ADAT IFANG I",
+      "WARD CODE": "8"
+    },
+    {
+      
+      "WARD NAME": "SOUTHERN AFAHA ADAT IFANG II",
+      "WARD CODE": "9"
+    },
+    {
+      
+      "WARD NAME": "SOUTHERN AFAHA ADAT IFANG III",
+      "WARD CODE": "10"
+    },
+    {
+      
+      "WARD NAME": "SOUTHERN AFAHA ADAT IFANG IV",
+      "WARD CODE": "11"
+    }]
+    
+  },
+  { "LGA NAME": "URBAN",
+    "LGA CODE": "29",
+    "WARDS":[  {
+      
+      "WARD NAME": "CENTRAL URUAN I",
+      "WARD CODE": "1"
+    },
+    {
+      
+      "WARD NAME": "CENTRAL URUAN II",
+      "WARD CODE": "2"
+    },
+    {
+      
+      "WARD NAME": "CENTRAL URUAN III",
+      "WARD CODE": "3"
+    },
+    {
+      
+      "WARD NAME": "NORTHERN URUAN I",
+      "WARD CODE": "4"
+    },
+    {
+      
+      "WARD NAME": "NORTHERN URUAN II",
+      "WARD CODE": "5"
+    },
+    {
+      
+      "WARD NAME": "SOUTHERN URUAN III",
+      "WARD CODE": "6"
+    },
+    {
+      
+      "WARD NAME": "SOUTHERN URUAN IV",
+      "WARD CODE": "7"
+    },
+    {
+      
+      "WARD NAME": "SOUTHERN URUAN V",
+      "WARD CODE": "8"
+    },
+    {
+      
+      "WARD NAME": "SOUTHERN URUAN VI",
+      "WARD CODE": "9"
+    },
+    {
+      
+      "WARD NAME": "SOUTHERN URUAN VII",
+      "WARD CODE": "10"
+    },
+    {
+      
+      "WARD NAME": "SOUTHERN URUAN VIII",
+      "WARD CODE": "11"
+    }]
+    
+  },
+  {"LGA NAME": "URUE OFFONG ORUKO",
+    "LGA CODE": "30",
+    "WARDS":[{
+      
+      "WARD NAME": "URUE OFFONG I",
+      "WARD CODE": "1"
+    },
+    {
+      
+      "WARD NAME": "URUE OFFONG II",
+      "WARD CODE": "2"
+    },
+    {
+      
+      "WARD NAME": "URUE OFFONG III",
+      "WARD CODE": "3"
+    },
+    {
+      
+      "WARD NAME": "URUE OFFONG IV",
+      "WARD CODE": "4"
+    },
+    {
+      
+      "WARD NAME": "URUE OFFONG V",
+      "WARD CODE": "5"
+    },
+    {
+      
+      "WARD NAME": "ORUKU I",
+      "WARD CODE": "6"
+    },
+    {
+      
+      "WARD NAME": "ORUKU II",
+      "WARD CODE": "7"
+    },
+    {
+      
+      "WARD NAME": "ORUKU III",
+      "WARD CODE": "8"
+    },
+    {
+      
+      "WARD NAME": "ORUKU IV",
+      "WARD CODE": "9"
+    },
+    {
+      
+      "WARD NAME": "ORUKU V",
+      "WARD CODE": "10"
+    }]
+    
+  }
+  ,
+  { "LGA NAME": "UYO",
+    "LGA CODE": "31",
+    "WARDS":[
+      {
+       
+        "WARD NAME": "UYO URBAN I",
+        "WARD CODE": "1"
+      },
+      {
+        
+        "WARD NAME": "UYO URBAN II",
+        "WARD CODE": "2"
+      },
+      {
+        
+        "WARD NAME": "UYO URBAN III",
+        "WARD CODE": "3"
+      },
+      {
+        
+        "WARD NAME": "ETOI I",
+        "WARD CODE": "4"
+      },
+      {
+        
+        "WARD NAME": "ETOI II",
+        "WARD CODE": "5"
+      },
+      {
+        
+        "WARD NAME": "OFFOT I",
+        "WARD CODE": "6"
+      },
+      {
+        
+        "WARD NAME": "OFFOT II",
+        "WARD CODE": "7"
+      },
+      {
+        
+        "WARD NAME": "IKONO I",
+        "WARD CODE": "8"
+      },
+      {
+        
+        "WARD NAME": "IKONO II",
+        "WARD CODE": "9"
+      },
+      {
+        
+        "WARD NAME": "OKU I",
+        "WARD CODE": "10"
+      },
+      {
+        
+        "WARD NAME": "OKU II",
+        "WARD CODE": "11"
+      }]
+    
+  }
+  
+
+
+]}
+  
+]
+
+
+
+    
+ 
+  

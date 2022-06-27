@@ -1,1332 +1,944 @@
-
-[{ "LGAS":
-
-  [{   "LGA NAME": "BARKIN LADI",
-    "LGA CODE": "1",
-  "WARDS":[ {
-    "WARD NAME": "BARKIN LADI",
-       
-       "WARD CODE": "1"
-     },
-     {
-       
-       "WARD NAME": "GASSA/SHO",
-    
-       "WARD CODE": "2"
-     },
-     {
-       
-       "WARD NAME": "GINDIN AKWATI",
-       
-       "WARD CODE": "3"
-     },
-     {
-       
-       "WARD NAME": "KEIPANG",
-    
-       "WARD CODE": "4"
-     },
-     {
-       
-       "WARD NAME": "KAPWIS",
-      
-       "WARD CODE": "5"
-     },
-     {
-       
-       "WARD NAME": "KURRA FALLS",
-       
-       "WARD CODE": "6"
-     },
-     {
-       
-       "WARD NAME": "LOBIRING",
-       
-       "WARD CODE": "7"
-     },
-     {
-       
-       "WARD NAME": "MARIT/MAZAT",
-    
-       "WARD CODE": "8"
-     },
-     {
-       
-       "WARD NAME": "RAFAN",
-    
-       "WARD CODE": "9"
-     },
-     {
-       
-       "WARD NAME": "TAFAN",
-       
-       "WARD CODE": "10"
-     },
-     {
-       
-       "WARD NAME": "ZABOT",
-      
-       "WARD CODE": "11"
-     }]
-  },
-  { "LGA NAME": "BASSA",
-    "LGA CODE": "2", 
-  "WARDS":[
-    {
-     
-      "WARD NAME": "BUHIT",
-      
-      "WARD CODE": "1"
-    },
-    {
-      
-      "WARD NAME": "BUJI",
-     
-      "WARD CODE": "2"
-    },
-    {
-      
-      "WARD NAME": "GABIA",
-     
-      "WARD CODE": "3"
-    },
-    {
-      
-      "WARD NAME": "RURUM",
-     
-      "WARD CODE": "4"
-    },
-    {
-      
-      "WARD NAME": "JENGRE",
-     
-      "WARD CODE": "5"
-    },
-    {
-      
-      "WARD NAME": "KADAMO",
-     
-      "WARD CODE": "6"
-    },
-    {
-      
-      "WARD NAME": "KAKKEK",
-      
-      "WARD CODE": "7"
-    },
-    {
-      
-      "WARD NAME": "KASURU",
-     
-      "WARD CODE": "8"
-    },
-    {
-      
-      "WARD NAME": "KIMAKPA",
-     
-      "WARD CODE": "9"
-    },
-    {
-      
-      "WARD NAME": "KISHIKA",
-      
-      "WARD CODE": "10"
-    },
-    {
-      
-      "WARD NAME": "MAFARA",
-     
-      "WARD CODE": "11"
-    },
-    {
-      
-      "WARD NAME": "RIMI",
-     
-      "WARD CODE": "12"
-    },
-    {
-      
-      "WARD NAME": "TAAGBE",
-     
-      "WARD CODE": "13"
-    },
-    {
-      
-      "WARD NAME": "TAHU",
-     
-      "WARD CODE": "14"
-    },
-    {
-      
-      "WARD NAME": "ZABOLO",
-      
-      "WARD CODE": "15"
-    },
-    {
-      
-      "WARD NAME": "ZOBWO",
-     
-      "WARD CODE": "16"
-    }]
+[
+  {
+    "LGAS": [
+      {
+        "LGA NAME": "BARKIN LADI",
+        "LGA CODE": "1",
+        "WARDS": [
+          {
+            "wardname": "BARKIN LADI",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "GASSA/SHO",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "GINDIN AKWATI",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "KEIPANG",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "KAPWIS",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "KURRA FALLS",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "LOBIRING",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "MARIT/MAZAT",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "RAFAN",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "TAFAN",
+            "wardcode": "10"
+          },
+          {
+            "wardname": "ZABOT",
+            "wardcode": "11"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "BASSA",
+        "LGA CODE": "2",
+        "WARDS": [
+          {
+            "wardname": "BUHIT",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "BUJI",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "GABIA",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "RURUM",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "JENGRE",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "KADAMO",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "KAKKEK",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "KASURU",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "KIMAKPA",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "KISHIKA",
+            "wardcode": "10"
+          },
+          {
+            "wardname": "MAFARA",
+            "wardcode": "11"
+          },
+          {
+            "wardname": "RIMI",
+            "wardcode": "12"
+          },
+          {
+            "wardname": "TAAGBE",
+            "wardcode": "13"
+          },
+          {
+            "wardname": "TAHU",
+            "wardcode": "14"
+          },
+          {
+            "wardname": "ZABOLO",
+            "wardcode": "15"
+          },
+          {
+            "wardname": "ZOBWO",
+            "wardcode": "16"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "BOKKOS",
+        "LGA CODE": "3",
+        "WARDS": [
+          {
+            "wardname": "BOKKOS",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "BUTURA",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "DAFFO",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "DAMWAI",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "KWATAS",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "MANGOR",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "MBAR/MANGAR",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "MANGUNA",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "MUSHERE  CENTRAL",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "MUNSHER WEST",
+            "wardcode": "10"
+          },
+          {
+            "wardname": "RICHIA",
+            "wardcode": "11"
+          },
+          {
+            "wardname": "SHA",
+            "wardcode": "12"
+          },
+          {
+            "wardname": "TANGUR",
+            "wardcode": "13"
+          },
+          {
+            "wardname": "TOFF",
+            "wardcode": "14"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "JOS EAST",
+        "LGA CODE": "4",
+        "WARDS": [
+          {
+            "wardname": "FEDERE",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "BOBUR A",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "BOBUR B",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "FURSUM",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "JARAWAN KOGI",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "MAIGEMU",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "MAIJUJU",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "SHERE EAST",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "SHERE WEST",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "ZANDI",
+            "wardcode": "10"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "JOS NORTH",
+        "LGA CODE": "5",
+        "WARDS": [
+          {
+            "wardname": "ABBA NA SHEHU",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "ALI-KAZAURE",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "GARBA DAHO",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "GANGARE",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "IBRAHIM KATSINA",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "JENTA ADAMU",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "JENTA APATA",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "JOS-JARAWA",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "MARAGUTA A",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "MARAGUTA B",
+            "wardcode": "10"
+          },
+          {
+            "wardname": "SARKIN ARABA",
+            "wardcode": "11"
+          },
+          {
+            "wardname": "TAFAWA-BALEWA",
+            "wardcode": "12"
+          },
+          {
+            "wardname": "TUDUN WADA KABONG",
+            "wardcode": "13"
+          },
+          {
+            "wardname": "VANDERPUYE",
+            "wardcode": "14"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "JOS SOUTH",
+        "LGA CODE": "6",
+        "WARDS": [
+          {
+            "wardname": "BUKURU",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "DU",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "GIRING",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "GYEL A",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "GYEL B",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "KURU A",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "KURU B",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "SHEN",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "TURU",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "VWANG",
+            "wardcode": "10"
+          },
+          {
+            "wardname": "ZAWANG A",
+            "wardcode": "11"
+          },
+          {
+            "wardname": "ZAWANG  B",
+            "wardcode": "12"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "KANAM",
+        "LGA CODE": "7",
+        "WARDS": [
+          {
+            "wardname": "BIRBYANG",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "DENGI",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "DUGUB",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "GADDI",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "GARGA",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "GUMSHER",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "GWAMLAR",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "JARKI",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "JOM",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "KANAM",
+            "wardcode": "10"
+          },
+          {
+            "wardname": "KANTANA",
+            "wardcode": "11"
+          },
+          {
+            "wardname": "KUNKYAM",
+            "wardcode": "12"
+          },
+          {
+            "wardname": "MUNBUTBO",
+            "wardcode": "13"
+          },
+          {
+            "wardname": "NAMARAN",
+            "wardcode": "14"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "KANKE",
+        "LGA CODE": "8",
+        "WARDS": [
+          {
+            "wardname": "AMPANG EAST",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "AMPER CHIKA A",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "AMPER CHIKA B",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "AMPER SERI",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "DAWAKI",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "GARRAM",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "KABWIR PADA",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "KABWIR/GYANGYANG",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "LANGSHI",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "NEMEL",
+            "wardcode": "10"
+          },
+          {
+            "LGA NAME": "LANG-TANG NORTH",
+            "LGA CODE": "9",
+            "wardname": "FUNYALAND",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "JAT",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "KELLER",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "KUFFEN",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "KWALLAK",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "KWANPE",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "LIPCHOK",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "MBAN/ZAMKO",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "NYER",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "PAJAT",
+            "wardcode": "10"
+          },
+          {
+            "wardname": "PIL-GANI",
+            "wardcode": "11"
+          },
+          {
+            "wardname": "PISHE/VASHE",
+            "wardcode": "12"
+          },
+          {
+            "wardname": "REAK",
+            "wardcode": "13"
+          },
+          {
+            "wardname": "WAROK",
+            "wardcode": "14"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "LANG-TANG SOUTH",
+        "LGA CODE": "10",
+        "WARDS": [
+          {
+            "wardname": "DADIN KOWA",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "FAJUL",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "GAMAKAI",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "LASHEL",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "MABUDI",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "MAGAMA",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "SABON GIDA",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "TAL GWANG",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "TIMBOL",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "TURAKI",
+            "wardcode": "10"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "MANGU",
+        "LGA CODE": "11",
+        "WARDS": [
+          {
+            "wardname": "AMPANG WEST",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "CHANSO",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "GINDIRI 1",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "GINDIRI 11",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "JANNARET",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "JIPAL/CHAKFEM",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "KADUNU",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "KERANG",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "KOMBUN",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "LANGAI",
+            "wardcode": "10"
+          },
+          {
+            "wardname": "MANGU 1",
+            "wardcode": "11"
+          },
+          {
+            "wardname": "MANGU TOWN 11",
+            "wardcode": "12"
+          },
+          {
+            "wardname": "MANGUN",
+            "wardcode": "13"
+          },
+          {
+            "wardname": "MANGUN HALLE",
+            "wardcode": "14"
+          },
+          {
+            "wardname": "PANYAM",
+            "wardcode": "15"
+          },
+          {
+            "wardname": "PUSHIT",
+            "wardcode": "16"
+          },
+          {
+            "LGA NAME": "MIKANG",
+            "LGA CODE": "12",
+            "wardname": "BALTEP",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "GARKAWA CENTRAL",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "GARKAWA NORTH",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "GARKAWA NORTH EAST",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "KOENOEM  A",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "KOENOEM B",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "LALIN",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "PIAPUNG A",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "PIAPUNG B",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "TUNKUS",
+            "wardcode": "10"
+          },
+          {
+            "LGA NAME": "PANKSHIN",
+            "LGA CODE": "13",
+            "wardname": "CHIP",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "DOK-PAI",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "FIER",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "JIBLIK",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "KADUNG",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "KANGSHU",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "LANKAN",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "PANKSHIN CENTRAL",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "PANKSHIN CHIGWONG",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "PANKSHIN SOUTH(BELNING)",
+            "wardcode": "10"
+          },
+          {
+            "wardname": "TAL",
+            "wardcode": "11"
+          },
+          {
+            "wardname": "WOKKOS",
+            "wardcode": "12"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "QU AN PAN",
+        "LGA CODE": "14",
+        "WARDS": [
+          {
+            "wardname": "BWALL",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "DOEMAK GOECHIM",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "DOEMAK KOPLONG",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "KOKA-KASUWA",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "KURGWI",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "KWA",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "KWALLA MOEDA",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "KWALLA YITLA AR",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "KWANDE",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "KWANG",
+            "wardcode": "10"
+          },
+          {
+            "wardname": "NAMU",
+            "wardcode": "11"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "RIYOM",
+        "LGA CODE": "15",
+        "WARDS": [
+          {
+            "wardname": "ATTAKAR",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "BUM",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "DANTO",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "JOL/KWI",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "RA-HOSS",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "RIM",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "RIYOM",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "SHARUBUTU",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "SOPP",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "TA-HOSS",
+            "wardcode": "10"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "SHENDAM",
+        "LGA CODE": "16",
+        "WARDS": [
+          {
+            "wardname": "DERTENG",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "KALONG",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "KURUNGBOU A",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "KURUNGBOU  B",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "KOEKAT",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "PANGSHOM",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "POESHIP",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "SHENDAM CENTRAL A",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "SHENDAM CENTRAL B",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "SHIMANKAR",
+            "wardcode": "10"
+          },
+          {
+            "wardname": "YELWA",
+            "wardcode": "11"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "WASE",
+        "LGA CODE": "17",
+        "WARDS": []
+      },
+      {
+        "LGA NAME": "",
+        "LGA CODE": "",
+        "WARDS": []
+      },
+      {
+        "LGA NAME": "",
+        "LGA CODE": "",
+        "WARDS": []
+      },
+      {
+        "LGA NAME": "",
+        "LGA CODE": "",
+        "WARDS": []
+      },
+      {
+        "LGA NAME": "",
+        "LGA CODE": "",
+        "WARDS": [
+          {
+            "wardname": "BASHAR",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "DANBIRAM",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "GUDUS",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "KADARKO",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "KUMBONG",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "KUMBUR",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "KUYAMBANA",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "MAVO",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "NYALUM/KAMPANI",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "SALUWE",
+            "wardcode": "10"
+          },
+          {
+            "wardname": "WASE TOFA",
+            "wardcode": "11"
+          },
+          {
+            "wardname": "YOLA-WAKAT",
+            "wardcode": "12"
+          }
+        ]
+      }
+    ]
   }
-  ,
-  {"LGA NAME": "BOKKOS",
-    "LGA CODE": "3",
-  "WARDS":[
-    {
-      
-      "WARD NAME": "BOKKOS",
-    
-      "WARD CODE": "1"
-    },
-    {
-      
-      "WARD NAME": "BUTURA",
-      
-      "WARD CODE": "2"
-    },
-    {
-      
-      "WARD NAME": "DAFFO",
-   
-      "WARD CODE": "3"
-    },
-    {
-      
-      "WARD NAME": "DAMWAI",
-     
-      "WARD CODE": "4"
-    },
-    {
-      
-      "WARD NAME": "KWATAS",
-   
-      "WARD CODE": "5"
-    },
-    {
-      
-      "WARD NAME": "MANGOR",
-     
-      "WARD CODE": "6"
-    },
-    {
-      
-      "WARD NAME": "MBAR/MANGAR",
-   
-      "WARD CODE": "7"
-    },
-    {
-      
-      "WARD NAME": "MANGUNA",
-      
-      "WARD CODE": "8"
-    },
-    {
-      
-      "WARD NAME": "MUSHERE  CENTRAL",
-      
-      "WARD CODE": "9"
-    },
-    {
-      
-      "WARD NAME": "MUNSHER WEST",
-      
-      "WARD CODE": "10"
-    },
-    {
-      
-      "WARD NAME": "RICHIA",
-     
-      "WARD CODE": "11"
-    },
-    {
-      
-      "WARD NAME": "SHA",
-     
-      "WARD CODE": "12"
-    },
-    {
-      
-      "WARD NAME": "TANGUR",
-      
-      "WARD CODE": "13"
-    },
-    {
-      
-      "WARD NAME": "TOFF",
-      
-      "WARD CODE": "14"
-    }]
-
-}
-,
-{ "LGA NAME": "JOS EAST",
-  "LGA CODE": "4",
-"WARDS":[{
-     
-  "WARD NAME": "FEDERE",
- 
-  "WARD CODE": "1"
-},
-{
-  
-  "WARD NAME": "BOBUR A",
-  
-  "WARD CODE": "2"
-},
-{
-  
-  "WARD NAME": "BOBUR B",
- 
-  "WARD CODE": "3"
-},
-{
-  
-  "WARD NAME": "FURSUM",
- 
-  "WARD CODE": "4"
-},
-{
-  
-  "WARD NAME": "JARAWAN KOGI",
- 
-  "WARD CODE": "5"
-},
-{
-  
-  "WARD NAME": "MAIGEMU",
- 
-  "WARD CODE": "6"
-},
-{
-  
-  "WARD NAME": "MAIJUJU",
- 
-  "WARD CODE": "7"
-},
-{
-  
-  "WARD NAME": "SHERE EAST",
- 
-  "WARD CODE": "8"
-},
-{
-  
-  "WARD NAME": "SHERE WEST",
- 
-  "WARD CODE": "9"
-},
-{
-  
-  "WARD NAME": "ZANDI",
-
-  "WARD CODE": "10"
-}]
- },
- {"LGA NAME": "JOS NORTH",
-  "LGA CODE": "5",
-  "WARDS":[ {
-      
-    "WARD NAME": "ABBA NA SHEHU",
-   
-    "WARD CODE": "1"
-  },
-  {
-    
-    "WARD NAME": "ALI-KAZAURE",
-   
-    "WARD CODE": "2"
-  },
-  {
-    
-    "WARD NAME": "GARBA DAHO",
-   
-    "WARD CODE": "3"
-  },
-  {
-    
-    "WARD NAME": "GANGARE",
-    
-    "WARD CODE": "4"
-  },
-  {
-    
-    "WARD NAME": "IBRAHIM KATSINA",
- 
-    "WARD CODE": "5"
-  },
-  {
-    
-    "WARD NAME": "JENTA ADAMU",
- 
-    "WARD CODE": "6"
-  },
-  {
-    
-    "WARD NAME": "JENTA APATA",
-    
-    "WARD CODE": "7"
-  },
-  {
-    
-    "WARD NAME": "JOS-JARAWA",
-    
-    "WARD CODE": "8"
-  },
-  {
-    
-    "WARD NAME": "MARAGUTA A",
- 
-    "WARD CODE": "9"
-  },
-  {
-    
-    "WARD NAME": "MARAGUTA B",
- 
-    "WARD CODE": "10"
-  },
-  {
-    
-    "WARD NAME": "SARKIN ARABA",
-    "WARD CODE": "11"
-  },
-  {
-    
-    "WARD NAME": "TAFAWA-BALEWA",
-    
-    "WARD CODE": "12"
-  },
-  {
-    
-    "WARD NAME": "TUDUN WADA KABONG",
-    "WARD CODE": "13"
-  },
-  {
-    
-    "WARD NAME": "VANDERPUYE",
-    
-    "WARD CODE": "14"
-  }]
-},
-{
-  "LGA NAME": "JOS SOUTH",
-      "LGA CODE": "6",
-  "WARDS":[ {
-      
-    "WARD NAME": "BUKURU",
-
-    "WARD CODE": "1"
-  },
-  {
-    
-    "WARD NAME": "DU",
- 
-    "WARD CODE": "2"
-  },
-  {
-    
-    "WARD NAME": "GIRING",
-   
-    "WARD CODE": "3"
-  },
-  {
-    
-    "WARD NAME": "GYEL A",
- 
-    "WARD CODE": "4"
-  },
-  {
-    
-    "WARD NAME": "GYEL B",
-    
-    "WARD CODE": "5"
-  },
-  {
-    
-    "WARD NAME": "KURU A",
-   
-    "WARD CODE": "6"
-  },
-  {
-    
-    "WARD NAME": "KURU B",
-   
-    "WARD CODE": "7"
-  },
-  {
-    
-    "WARD NAME": "SHEN",
-   
-    "WARD CODE": "8"
-  },
-  {
-    
-    "WARD NAME": "TURU",
- 
-    "WARD CODE": "9"
-  },
-  {
-    
-    "WARD NAME": "VWANG",
- 
-    "WARD CODE": "10"
-  },
-  {
-    
-    "WARD NAME": "ZAWANG A",
-    
-    "WARD CODE": "11"
-  },
-  {
-    
-    "WARD NAME": "ZAWANG  B",
-   
-    "WARD CODE": "12"
-  }]
-},
-
-{
-  "LGA NAME": "KANAM",
-  "LGA CODE": "7",
-  "WARDS":[{
-     
-    "WARD NAME": "BIRBYANG",
-   
-    "WARD CODE": "1"
-  },
-  {
-    
-    "WARD NAME": "DENGI",
-   
-    "WARD CODE": "2"
-  },
-  {
-    
-    "WARD NAME": "DUGUB",
-   
-    "WARD CODE": "3"
-  },
-  {
-    
-    "WARD NAME": "GADDI",
-   
-    "WARD CODE": "4"
-  },
-  {
-    
-    "WARD NAME": "GARGA",
-    
-    "WARD CODE": "5"
-  },
-  {
-    
-    "WARD NAME": "GUMSHER",
- 
-    "WARD CODE": "6"
-  },
-  {
-    
-    "WARD NAME": "GWAMLAR",
-    
-    "WARD CODE": "7"
-  },
-  {
-    
-    "WARD NAME": "JARKI",
-   
-    "WARD CODE": "8"
-  },
-  {
-    
-    "WARD NAME": "JOM",
-   
-    "WARD CODE": "9"
-  },
-  {
-    
-    "WARD NAME": "KANAM",
-  
-    "WARD CODE": "10"
-  },
-  {
-    
-    "WARD NAME": "KANTANA",
-    
-    "WARD CODE": "11"
-  },
-  {
-    
-    "WARD NAME": "KUNKYAM",
-    
-    "WARD CODE": "12"
-  },
-  {
-    
-    "WARD NAME": "MUNBUTBO",
-    
-    "WARD CODE": "13"
-  },
-  {
-    
-    "WARD NAME": "NAMARAN",
-    
-    "WARD CODE": "14"
-  }]
-},
-{ "LGA NAME": "KANKE",
-  "LGA CODE": "8",
-  "WARDS":[  {
-      
-    "WARD NAME": "AMPANG EAST",
- 
-    "WARD CODE": "1"
-  },
-  {
-    
-    "WARD NAME": "AMPER CHIKA A",
-
-    "WARD CODE": "2"
-  },
-  {
-    
-    "WARD NAME": "AMPER CHIKA B",
-
-    "WARD CODE": "3"
-  },
-  {
-    
-    "WARD NAME": "AMPER SERI",
-   
-    "WARD CODE": "4"
-  },
-  {
-    
-    "WARD NAME": "DAWAKI",
-
-    "WARD CODE": "5"
-  },
-  {
-    
-    "WARD NAME": "GARRAM",
-
-    "WARD CODE": "6"
-  },
-  {
-    
-    "WARD NAME": "KABWIR PADA",
-    
-    "WARD CODE": "7"
-  },
-  {
-    
-    "WARD NAME": "KABWIR/GYANGYANG",
-   
-    "WARD CODE": "8"
-  },
-  {
-    
-    "WARD NAME": "LANGSHI",
-   
-    "WARD CODE": "9"
-  },
-  {
-    
-    "WARD NAME": "NEMEL",
- 
-    "WARD CODE": "10"
-  },
-
-  {
-    "LGA NAME": "LANG-TANG NORTH",
-    "LGA CODE": "9",
-    "WARD NAME": "FUNYALAND",
-   
-    "WARD CODE": "1"
-  },
-  {
-    
-    "WARD NAME": "JAT",
-   
-    "WARD CODE": "2"
-  },
-  {
-    
-    "WARD NAME": "KELLER",
-   
-    "WARD CODE": "3"
-  },
-  {
-    
-    "WARD NAME": "KUFFEN",
-  
-    "WARD CODE": "4"
-  },
-  {
-    
-    "WARD NAME": "KWALLAK",
-   
-    "WARD CODE": "5"
-  },
-  {
-    
-    "WARD NAME": "KWANPE",
- 
-    "WARD CODE": "6"
-  },
-  {
-    
-    "WARD NAME": "LIPCHOK",
-   
-    "WARD CODE": "7"
-  },
-  {
-    
-    "WARD NAME": "MBAN/ZAMKO",
-   
-    "WARD CODE": "8"
-  },
-  {
-    
-    "WARD NAME": "NYER",
-
-    "WARD CODE": "9"
-  },
-  {
-    
-    "WARD NAME": "PAJAT",
-   
-    "WARD CODE": "10"
-  },
-  {
-    
-    "WARD NAME": "PIL-GANI",
- 
-    "WARD CODE": "11"
-  },
-  {
-    
-    "WARD NAME": "PISHE/VASHE",
- 
-    "WARD CODE": "12"
-  },
-  {
-    
-    "WARD NAME": "REAK",
-   
-    "WARD CODE": "13"
-  },
-  {
-    
-    "WARD NAME": "WAROK",
-
-    "WARD CODE": "14"
-  }]
-},
-{ "LGA NAME": "LANG-TANG SOUTH",
-  "LGA CODE": "10",
-  "WARDS":[ {
-     
-    "WARD NAME": "DADIN KOWA",
-   
-    "WARD CODE": "1"
-  },
-  {
-    
-    "WARD NAME": "FAJUL",
-   
-    "WARD CODE": "2"
-  },
-  {
-    
-    "WARD NAME": "GAMAKAI",
-   
-    "WARD CODE": "3"
-  },
-  {
-    
-    "WARD NAME": "LASHEL",
-   
-    "WARD CODE": "4"
-  },
-  {
-    
-    "WARD NAME": "MABUDI",
-
-    "WARD CODE": "5"
-  },
-  {
-    
-    "WARD NAME": "MAGAMA",
-   
-    "WARD CODE": "6"
-  },
-  {
-    
-    "WARD NAME": "SABON GIDA",
-
-    "WARD CODE": "7"
-  },
-  {
-    
-    "WARD NAME": "TAL GWANG",
- 
-    "WARD CODE": "8"
-  },
-  {
-    
-    "WARD NAME": "TIMBOL",
-
-    "WARD CODE": "9"
-  },
-  {
-    
-    "WARD NAME": "TURAKI",
-   
-    "WARD CODE": "10"
-  }]
-},
-
-{
-  
-  "LGA NAME": "MANGU",
-  "LGA CODE": "11",
-  "WARDS":[ {
-    "WARD NAME": "AMPANG WEST",
-  
-    "WARD CODE": "1"
-  },
-  {
-    
-    "WARD NAME": "CHANSO",
-    
-    "WARD CODE": "2"
-  },
-  {
-    
-    "WARD NAME": "GINDIRI 1",
-   
-    "WARD CODE": "3"
-  },
-  {
-    
-    "WARD NAME": "GINDIRI 11",
-    
-    "WARD CODE": "4"
-  },
-  {
-    
-    "WARD NAME": "JANNARET",
-   
-    "WARD CODE": "5"
-  },
-  {
-    
-    "WARD NAME": "JIPAL/CHAKFEM",
-    
-    "WARD CODE": "6"
-  },
-  {
-    
-    "WARD NAME": "KADUNU",
-    
-    "WARD CODE": "7"
-  },
-  {
-    
-    "WARD NAME": "KERANG",
-  
-    "WARD CODE": "8"
-  },
-  {
-    
-    "WARD NAME": "KOMBUN",
-   
-    "WARD CODE": "9"
-  },
-  {
-    
-    "WARD NAME": "LANGAI",
- 
-    "WARD CODE": "10"
-  },
-  {
-    
-    "WARD NAME": "MANGU 1",
-  
-    "WARD CODE": "11"
-  },
-  {
-    
-    "WARD NAME": "MANGU TOWN 11",
-    
-    "WARD CODE": "12"
-  },
-  {
-    
-    "WARD NAME": "MANGUN",
-  
-    "WARD CODE": "13"
-  },
-  {
-    
-    "WARD NAME": "MANGUN HALLE",
-    
-    "WARD CODE": "14"
-  },
-  {
-    
-    "WARD NAME": "PANYAM",
- 
-    "WARD CODE": "15"
-  },
-  {
-    
-    "WARD NAME": "PUSHIT",
-  
-    "WARD CODE": "16"
-  },
-
-  {
-    "LGA NAME": "MIKANG",
-    "LGA CODE": "12",
-    "WARD NAME": "BALTEP",
-   
-    "WARD CODE": "1"
-  },
-  {
-    
-    "WARD NAME": "GARKAWA CENTRAL",
-   
-    "WARD CODE": "2"
-  },
-  {
-    
-    "WARD NAME": "GARKAWA NORTH",
-   
-    "WARD CODE": "3"
-  },
-  {
-    
-    "WARD NAME": "GARKAWA NORTH EAST",
-   
-    "WARD CODE": "4"
-  },
-  {
-    
-    "WARD NAME": "KOENOEM  A",
-   
-    "WARD CODE": "5"
-  },
-  {
-    
-    "WARD NAME": "KOENOEM B",
-   
-    "WARD CODE": "6"
-  },
-  {
-    
-    "WARD NAME": "LALIN",
-    
-    "WARD CODE": "7"
-  },
-  {
-    
-    "WARD NAME": "PIAPUNG A",
-   
-    "WARD CODE": "8"
-  },
-  {
-    
-    "WARD NAME": "PIAPUNG B",
-   
-    "WARD CODE": "9"
-  },
-  {
-    
-    "WARD NAME": "TUNKUS",
-    
-    "WARD CODE": "10"
-  },
-
-  {
-    "LGA NAME": "PANKSHIN",
-    "LGA CODE": "13",
-    "WARD NAME": "CHIP",
-    
-    "WARD CODE": "1"
-  },
-  {
-    
-    "WARD NAME": "DOK-PAI",
-   
-    "WARD CODE": "2"
-  },
-  {
-    
-    "WARD NAME": "FIER",
-   
-    "WARD CODE": "3"
-  },
-  {
-    
-    "WARD NAME": "JIBLIK",
-    
-    "WARD CODE": "4"
-  },
-  {
-    
-    "WARD NAME": "KADUNG",
-   
-    "WARD CODE": "5"
-  },
-  {
-    
-    "WARD NAME": "KANGSHU",
-   
-    "WARD CODE": "6"
-  },
-  {
-    
-    "WARD NAME": "LANKAN",
-   
-    "WARD CODE": "7"
-  },
-  {
-    
-    "WARD NAME": "PANKSHIN CENTRAL",
-    
-    "WARD CODE": "8"
-  },
-  {
-    
-    "WARD NAME": "PANKSHIN CHIGWONG",
-    
-    "WARD CODE": "9"
-  },
-  {
-    
-    "WARD NAME": "PANKSHIN SOUTH(BELNING)",
-   
-    "WARD CODE": "10"
-  },
-  {
-    
-    "WARD NAME": "TAL",
-   
-    "WARD CODE": "11"
-  },
-  {
-    
-    "WARD NAME": "WOKKOS",
-    
-    "WARD CODE": "12"
-  }]
-},
-{
-  
-  "LGA NAME": "QU AN PAN",
-  "LGA CODE": "14",
-  "WARDS":[{
-    "WARD NAME": "BWALL",
- 
-    "WARD CODE": "1"
-  },
-  {
-    
-    "WARD NAME": "DOEMAK GOECHIM",
-
-    "WARD CODE": "2"
-  },
-  {
-    
-    "WARD NAME": "DOEMAK KOPLONG",
-
-    "WARD CODE": "3"
-  },
-  {
-    
-    "WARD NAME": "KOKA-KASUWA",
-   
-    "WARD CODE": "4"
-  },
-  {
-    
-    "WARD NAME": "KURGWI",
-   
-    "WARD CODE": "5"
-  },
-  {
-    
-    "WARD NAME": "KWA",
-   
-    "WARD CODE": "6"
-  },
-  {
-    
-    "WARD NAME": "KWALLA MOEDA",
-   
-    "WARD CODE": "7"
-  },
-  {
-    
-    "WARD NAME": "KWALLA YITLA AR",
-   
-    "WARD CODE": "8"
-  },
-  {
-    
-    "WARD NAME": "KWANDE",
-   
-    "WARD CODE": "9"
-  },
-  {
-    
-    "WARD NAME": "KWANG",
-   
-    "WARD CODE": "10"
-  },
-  {
-    
-    "WARD NAME": "NAMU",
-
-    "WARD CODE": "11"
-  }]
-},
-
-{
-  "LGA NAME": "RIYOM",
-      "LGA CODE": "15",
-  "WARDS":[
-    {
-      
-      "WARD NAME": "ATTAKAR",
-     
-      "WARD CODE": "1"
-    },
-    {
-      
-      "WARD NAME": "BUM",
-      
-      "WARD CODE": "2"
-    },
-    {
-      
-      "WARD NAME": "DANTO",
-     
-      "WARD CODE": "3"
-    },
-    {
-      
-      "WARD NAME": "JOL/KWI",
-     
-      "WARD CODE": "4"
-    },
-    {
-      
-      "WARD NAME": "RA-HOSS",
-  
-      "WARD CODE": "5"
-    },
-    {
-      
-      "WARD NAME": "RIM",
-     
-      "WARD CODE": "6"
-    },
-    {
-      
-      "WARD NAME": "RIYOM",
-     
-      "WARD CODE": "7"
-    },
-    {
-      
-      "WARD NAME": "SHARUBUTU",
-      
-      "WARD CODE": "8"
-    },
-    {
-      
-      "WARD NAME": "SOPP",
-   
-      "WARD CODE": "9"
-    },
-    {
-      
-      "WARD NAME": "TA-HOSS",
-     
-      "WARD CODE": "10"
-    }]
-},
-{"LGA NAME": "SHENDAM",
-  "LGA CODE": "16",
-  "WARDS":[  {
-      
-    "WARD NAME": "DERTENG",
-   
-    "WARD CODE": "1"
-  },
-  {
-    
-    "WARD NAME": "KALONG",
-    
-    "WARD CODE": "2"
-  },
-  {
-    
-    "WARD NAME": "KURUNGBOU A",
-   
-    "WARD CODE": "3"
-  },
-  {
-    
-    "WARD NAME": "KURUNGBOU  B",
-  
-    "WARD CODE": "4"
-  },
-  {
-    
-    "WARD NAME": "KOEKAT",
-   
-    "WARD CODE": "5"
-  },
-  {
-    
-    "WARD NAME": "PANGSHOM",
- 
-    "WARD CODE": "6"
-  },
-  {
-    
-    "WARD NAME": "POESHIP",
-   
-    "WARD CODE": "7"
-  },
-  {
-    
-    "WARD NAME": "SHENDAM CENTRAL A",
-   
-    "WARD CODE": "8"
-  },
-  {
-    
-    "WARD NAME": "SHENDAM CENTRAL B",
-  
-    "WARD CODE": "9"
-  },
-  {
-    
-    "WARD NAME": "SHIMANKAR",
- 
-    "WARD CODE": "10"
-  },
-  {
-    
-    "WARD NAME": "YELWA",
-  
-    "WARD CODE": "11"
-  }]
-},
-
-{
-  "LGA NAME": "WASE",
-  "LGA CODE": "17",
-  "WARDS":[]
-},
-{
-  "LGA NAME":"", 
-  "LGA CODE":"", 
-  "WARDS":[]
-},
-
-{
-  "LGA NAME":"", 
-  "LGA CODE":"", 
-  "WARDS":[]
-},
-{
-  "LGA NAME":"", 
-  "LGA CODE":"", 
-  "WARDS":[]
-},
-
-{
-  "LGA NAME":"", 
-  "LGA CODE":"", 
-  "WARDS":[{
-    "WARD NAME": "BASHAR",
-   
-    "WARD CODE": "1"
-  },
-  {
-    
-    "WARD NAME": "DANBIRAM",
-    
-    "WARD CODE": "2"
-  },
-  {
-    
-    "WARD NAME": "GUDUS",
-   
-    "WARD CODE": "3"
-  },
-  {
-    
-    "WARD NAME": "KADARKO",
- 
-    "WARD CODE": "4"
-  },
-  {
-    
-    "WARD NAME": "KUMBONG",
-   
-    "WARD CODE": "5"
-  },
-  {
-    
-    "WARD NAME": "KUMBUR",
-  
-    "WARD CODE": "6"
-  },
-  {
-    
-    "WARD NAME": "KUYAMBANA",
-   
-    "WARD CODE": "7"
-  },
-  {
-    
-    "WARD NAME": "MAVO",
-    
-    "WARD CODE": "8"
-  },
-  {
-    
-    "WARD NAME": "NYALUM/KAMPANI",
-   
-    "WARD CODE": "9"
-  },
-  {
-    
-    "WARD NAME": "SALUWE",
-   
-    "WARD CODE": "10"
-  },
-  {
-    
-    "WARD NAME": "WASE TOFA",
-   
-    "WARD CODE": "11"
-  },
-  {
-    
-    "WARD NAME": "YOLA-WAKAT",
-   
-    "WARD CODE": "12"
-  }]
-}
-
-
-]
-}
 ]

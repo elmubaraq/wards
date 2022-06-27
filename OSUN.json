@@ -1,1837 +1,1510 @@
-[{ "LGAS":
-  [{ "LGA NAME": "ATAKUMOSA EAST",
-      "LGA CODE": "1", 
-  "WARDS":[ {
-     
-    "WARD NAME": "IWAR",
-    "WARD CODE": "1"
-  },
+[
   {
-    
-    "WARD NAME": "IGANGAN",
-    "WARD CODE": "2"
-  },
-  {
-    
-    "WARD NAME": "IPOLE",
-    "WARD CODE": "3"
-  },
-  {
-    
-    "WARD NAME": "IPERINDO",
-    "WARD CODE": "4"
-  },
-  {
-    
-    "WARD NAME": "ETI-ONI",
-    "WARD CODE": "5"
-  },
-  {
-    
-    "WARD NAME": "AJEGUNLE",
-    "WARD CODE": "6"
-  },
-  {
-    
-    "WARD NAME": "FOREST RESERVE  I",
-    "WARD CODE": "7"
-  },
-  {
-    
-    "WARD NAME": "FOREST RESERVE II",
-    "WARD CODE": "8"
-  },
-  {
-    
-    "WARD NAME": "FAFORIJI",
-    "WARD CODE": "9"
-  },
-  {
-    
-    "WARD NAME": "AJEGANDELE",
-    "WARD CODE": "10"
-  }]
-
-  },
-
-  { "LGA NAME": "ATAKUNMOSA WEST",
-      "LGA CODE": "2",
-  "WARDS":[{
-     
-    "WARD NAME": "OSU I",
-    "WARD CODE": "1"
-  },
-  {
-    
-    "WARD NAME": "OSU II",
-    "WARD CODE": "2"
-  },
-  {
-    
-    "WARD NAME": "OSU III",
-    "WARD CODE": "3"
-  },
-  {
-    
-    "WARD NAME": "IBODI",
-    "WARD CODE": "4"
-  },
-  {
-    
-    "WARD NAME": "IFELODUN",
-    "WARD CODE": "5"
-  },
-  {
-    
-    "WARD NAME": "ITA GUNMODI",
-    "WARD CODE": "6"
-  },
-  {
-    
-    "WARD NAME": "OKE BODE",
-    "WARD CODE": "7"
-  },
-  {
-    
-    "WARD NAME": "ISA OBI",
-    "WARD CODE": "8"
-  },
-  {
-    
-    "WARD NAME": "MUROKO",
-    "WARD CODE": "9"
-  },
-  {
-    
-    "WARD NAME": "IFEWARA I",
-    "WARD CODE": "10"
-  },
-  {
-    
-    "WARD NAME": "IFEWARA II",
-    "WARD CODE": "11"
-  },
-  {
-    
-    "WARD NAME": "",
-    "WARD CODE": ""
-  }]
-  },
-
-  { "LGA NAME": "AYEDADE",
-    "LGA CODE": "3",
-  "WARDS":[ {
-     
-    "WARD NAME": "BALOGUN",
-    "WARD CODE": "1"
-  },
-  {
-    
-    "WARD NAME": "OTUN-BALOGUN",
-    "WARD CODE": "2"
-  },
-  {
-    
-    "WARD NAME": "OLUFI",
-    "WARD CODE": "3"
-  },
-  {
-    
-    "WARD NAME": "OTUN-OLUFI",
-    "WARD CODE": "4"
-  },
-  {
-    
-    "WARD NAME": "IJUGBE/OKE-ESO/OKE- OWU",
-    "WARD CODE": "5"
-  },
-  {
-    
-    "WARD NAME": "LAGERE/AMOLA",
-    "WARD CODE": "6"
-  },
-  {
-    
-    "WARD NAME": "GBONGAN",
-    "WARD CODE": "7"
-  },
-  {
-    
-    "WARD NAME": "ODE-OMU RURAL",
-    "WARD CODE": "8"
-  },
-  {
-    
-    "WARD NAME": "OBALUFON",
-    "WARD CODE": "9"
-  },
-  {
-    
-    "WARD NAME": "ANLUGBUA",
-    "WARD CODE": "10"
-  },
-  {
-    
-    "WARD NAME": "ARAROMI-OWU",
-    "WARD CODE": "11"
-  }]
-
-},
-
-{"LGA NAME": "AYEDIRE",
-  "LGA CODE": "4",
-"WARDS":[{
-      
-  "WARD NAME": "OLUPONNA I",
-  "WARD CODE": "1"
-},
-{
-  
-  "WARD NAME": "OLUPONNA II",
-  "WARD CODE": "2"
-},
-{
-  
-  "WARD NAME": "OLUPONNA III",
-  "WARD CODE": "3"
-},
-{
-  
-  "WARD NAME": "OKE-OSUN",
-  "WARD CODE": "4"
-},
-{
-  
-  "WARD NAME": "ILE-OGBO I",
-  "WARD CODE": "5"
-},
-{
-  
-  "WARD NAME": "ILE OGBO II",
-  "WARD CODE": "6"
-},
-{
-  
-  "WARD NAME": "ILE-OGBO III",
-  "WARD CODE": "7"
-},
-{
-  
-  "WARD NAME": "ILE-OGBO IV",
-  "WARD CODE": "8"
-},
-{
-  
-  "WARD NAME": "KUTA I",
-  "WARD CODE": "9"
-},
-{
-  
-  "WARD NAME": "KUTA II",
-  "WARD CODE": "10"
-},
-{
-  
-  "WARD NAME": "",
-  "WARD CODE": ""
-},
-{
-  "LGA NAME": "BOLUWA-DURO",
-  "LGA CODE": "5",
-  "WARD NAME": "OKE OMI OTAN",
-  "WARD CODE": "1"
-},
-{
-  
-  "WARD NAME": "OKE-ODE OTAN",
-  "WARD CODE": "2"
-},
-{
-  
-  "WARD NAME": "OKE-OTAN",
-  "WARD CODE": "3"
-},
-{
-  
-  "WARD NAME": "GBELERU OBAALA I",
-  "WARD CODE": "4"
-},
-{
-  
-  "WARD NAME": "GBELERU OBAALA II",
-  "WARD CODE": "5"
-},
-{
-  
-  "WARD NAME": "OBANLA ILORO",
-  "WARD CODE": "6"
-},
-{
-  
-  "WARD NAME": "ERIPA",
-  "WARD CODE": "7"
-},
-{
-  
-  "WARD NAME": "OKE IRUN",
-  "WARD CODE": "8"
-},
-{
-  
-  "WARD NAME": "IRESI I",
-  "WARD CODE": "9"
-},
-{
-  
-  "WARD NAME": "IRESI II",
-  "WARD CODE": "10"
-},
-{
-  
-  "WARD NAME": "",
-  "WARD CODE": ""
-},
-{
-  "LGA NAME": "BORIPE",
-  "LGA CODE": "6",
-  "WARD NAME": "OLOTI IRAGBIJI",
-  "WARD CODE": "1"
-},
-{
-  
-  "WARD NAME": "OJA-OBA",
-  "WARD CODE": "2"
-},
-{
-  
-  "WARD NAME": "COLLEGE/EGBEDA ROAD",
-  "WARD CODE": "3"
-},
-{
-  
-  "WARD NAME": "ISALE-OYO",
-  "WARD CODE": "4"
-},
-{
-  
-  "WARD NAME": "AAGBA",
-  "WARD CODE": "5"
-},
-{
-  
-  "WARD NAME": "ORORUWO",
-  "WARD CODE": "6"
-},
-{
-  
-  "WARD NAME": "ADA I",
-  "WARD CODE": "7"
-},
-{
-  
-  "WARD NAME": "ADA II",
-  "WARD CODE": "8"
-},
-{
-  
-  "WARD NAME": "ISALE ASA IREE",
-  "WARD CODE": "9"
-},
-{
-  
-  "WARD NAME": "OKE ESA/OGI",
-  "WARD CODE": "10"
-},
-{
-  
-  "WARD NAME": "OKE AREE",
-  "WARD CODE": "11"
-},
-{
-  
-  "WARD NAME": "",
-  "WARD CODE": ""
-}]
- },
-
- {  "LGA NAME": "EDE NORTH",
-  "LGA CODE": "7",
-  "WARDS":[ {
-     
-    "WARD NAME": "OLOBA/ATAPARA",
-    "WARD CODE": "1"
-  },
-  {
-    
-    "WARD NAME": "ABODUNDE/SAGBA",
-    "WARD CODE": "2"
-  },
-  {
-    
-    "WARD NAME": "OLOGUN/AGBAAKIN",
-    "WARD CODE": "3"
-  },
-  {
-    
-    "WARD NAME": "OLUSOKUN",
-    "WARD CODE": "4"
-  },
-  {
-    
-    "WARD NAME": "ALUSEKERE",
-    "WARD CODE": "5"
-  },
-  {
-    
-    "WARD NAME": "SABO/AGBONGBE I",
-    "WARD CODE": "6"
-  },
-  {
-    
-    "WARD NAME": "SABO/AGBONGBE II",
-    "WARD CODE": "7"
-  },
-  {
-    
-    "WARD NAME": "ISIBO/BUHARI-ISOLA",
-    "WARD CODE": "8"
-  },
-  {
-    
-    "WARD NAME": "APASO",
-    "WARD CODE": "9"
-  },
-  {
-    
-    "WARD NAME": "JAGUN/JAGUN EDE",
-    "WARD CODE": "10"
-  },
-  {
-    
-    "WARD NAME": "BARA EJEMU",
-    "WARD CODE": "11"
-  },
-  {
-    
-    "WARD NAME": "",
-    "WARD CODE": ""
-  },
-  {
-    "LGA NAME": "EDE SOUTH",
-    "LGA CODE": "8",
-    "WARD NAME": "BABANLA/AGATE",
-    "WARD CODE": "1"
-  },
-  {
-    
-    "WARD NAME": "BA KUYE",
-    "WARD CODE": "2"
-  },
-  {
-    
-    "WARD NAME": "ASUNMO",
-    "WARD CODE": "3"
-  },
-  {
-    
-    "WARD NAME": "ALAJUE I",
-    "WARD CODE": "4"
-  },
-  {
-    
-    "WARD NAME": "ALAJUE II",
-    "WARD CODE": "5"
-  },
-  {
-    
-    "WARD NAME": "OLDAN",
-    "WARD CODE": "6"
-  },
-  {
-    
-    "WARD NAME": "BABASANYA",
-    "WARD CODE": "7"
-  },
-  {
-    
-    "WARD NAME": "SE KONA",
-    "WARD CODE": "8"
-  },
-  {
-    
-    "WARD NAME": "OLOKI/AKODA",
-    "WARD CODE": "9"
-  },
-  {
-    
-    "WARD NAME": "LOOGUN",
-    "WARD CODE": "10"
-  }
-
+    "LGAS": [
+      {
+        "LGA NAME": "ATAKUMOSA EAST",
+        "LGA CODE": "1",
+        "WARDS": [
+          {
+            "wardname": "IWAR",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "IGANGAN",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "IPOLE",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "IPERINDO",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "ETI-ONI",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "AJEGUNLE",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "FOREST RESERVE  I",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "FOREST RESERVE II",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "FAFORIJI",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "AJEGANDELE",
+            "wardcode": "10"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "ATAKUNMOSA WEST",
+        "LGA CODE": "2",
+        "WARDS": [
+          {
+            "wardname": "OSU I",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "OSU II",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "OSU III",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "IBODI",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "IFELODUN",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "ITA GUNMODI",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "OKE BODE",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "ISA OBI",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "MUROKO",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "IFEWARA I",
+            "wardcode": "10"
+          },
+          {
+            "wardname": "IFEWARA II",
+            "wardcode": "11"
+          },
+          {
+            "wardname": "",
+            "wardcode": ""
+          }
+        ]
+      },
+      {
+        "LGA NAME": "AYEDADE",
+        "LGA CODE": "3",
+        "WARDS": [
+          {
+            "wardname": "BALOGUN",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "OTUN-BALOGUN",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "OLUFI",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "OTUN-OLUFI",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "IJUGBE/OKE-ESO/OKE- OWU",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "LAGERE/AMOLA",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "GBONGAN",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "ODE-OMU RURAL",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "OBALUFON",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "ANLUGBUA",
+            "wardcode": "10"
+          },
+          {
+            "wardname": "ARAROMI-OWU",
+            "wardcode": "11"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "AYEDIRE",
+        "LGA CODE": "4",
+        "WARDS": [
+          {
+            "wardname": "OLUPONNA I",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "OLUPONNA II",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "OLUPONNA III",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "OKE-OSUN",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "ILE-OGBO I",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "ILE OGBO II",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "ILE-OGBO III",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "ILE-OGBO IV",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "KUTA I",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "KUTA II",
+            "wardcode": "10"
+          },
+          {
+            "wardname": "",
+            "wardcode": ""
+          },
+          {
+            "LGA NAME": "BOLUWA-DURO",
+            "LGA CODE": "5",
+            "wardname": "OKE OMI OTAN",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "OKE-ODE OTAN",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "OKE-OTAN",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "GBELERU OBAALA I",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "GBELERU OBAALA II",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "OBANLA ILORO",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "ERIPA",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "OKE IRUN",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "IRESI I",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "IRESI II",
+            "wardcode": "10"
+          },
+          {
+            "wardname": "",
+            "wardcode": ""
+          },
+          {
+            "LGA NAME": "BORIPE",
+            "LGA CODE": "6",
+            "wardname": "OLOTI IRAGBIJI",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "OJA-OBA",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "COLLEGE/EGBEDA ROAD",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "ISALE-OYO",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "AAGBA",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "ORORUWO",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "ADA I",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "ADA II",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "ISALE ASA IREE",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "OKE ESA/OGI",
+            "wardcode": "10"
+          },
+          {
+            "wardname": "OKE AREE",
+            "wardcode": "11"
+          },
+          {
+            "wardname": "",
+            "wardcode": ""
+          }
+        ]
+      },
+      {
+        "LGA NAME": "EDE NORTH",
+        "LGA CODE": "7",
+        "WARDS": [
+          {
+            "wardname": "OLOBA/ATAPARA",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "ABODUNDE/SAGBA",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "OLOGUN/AGBAAKIN",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "OLUSOKUN",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "ALUSEKERE",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "SABO/AGBONGBE I",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "SABO/AGBONGBE II",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "ISIBO/BUHARI-ISOLA",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "APASO",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "JAGUN/JAGUN EDE",
+            "wardcode": "10"
+          },
+          {
+            "wardname": "BARA EJEMU",
+            "wardcode": "11"
+          },
+          {
+            "wardname": "",
+            "wardcode": ""
+          },
+          {
+            "LGA NAME": "EDE SOUTH",
+            "LGA CODE": "8",
+            "wardname": "BABANLA/AGATE",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "BA KUYE",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "ASUNMO",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "ALAJUE I",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "ALAJUE II",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "OLDAN",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "BABASANYA",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "SE KONA",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "OLOKI/AKODA",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "LOOGUN",
+            "wardcode": "10"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "EGBEDORE",
+        "LGA CODE": "9",
+        "WARDS": [
+          {
+            "wardname": "AWO/ABUDO",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "ARA I",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "ARA II",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "IDO-OSUN",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "IRAGBERE I",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "IRAGBERE II",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "IWOYE/IDO/ORIGO",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "IKOTUN",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "OJO/ARO",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "OKINNI/OLORUNSOGO/OF ATEDO",
+            "wardcode": "10"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "EJIGBO",
+        "LGA CODE": "10",
+        "WARDS": [
+          {
+            "wardname": "ELEJIGBO 'A'",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "ELEJIGBO 'B'/OSOLO",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "ELEJIGBO 'C'/MAPO",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "ELEJIGBO 'D'/EJEMU",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "LELJIGBO/AYEGBOGBO",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "OLA/AYE/AGURODO",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "IFEODAN'A'/OWU-ILE",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "IFEODAN 'B'/MASIFA",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "ILAWO/ISOKO/ISUNDUNRI N",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "INISA/AATO/IGBON",
+            "wardcode": "10"
+          },
+          {
+            "wardname": "INISA II/AFAAKE/AYEGUNLE",
+            "wardcode": "11"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "IFE CENTRAL",
+        "LGA CODE": "11",
+        "WARDS": [
+          {
+            "wardname": "ILARE I",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "ILARE II",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "ILARE III",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "ILARE IV",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "IREMO I (AJEBANDELE)",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "IREMO II (ELEYELE)",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "IREMO III",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "IREMO IV",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "IREMO V",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "AKARABATA",
+            "wardcode": "10"
+          },
+          {
+            "wardname": "MORE OJAJA",
+            "wardcode": "11"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "IFEDAYO",
+        "LGA CODE": "12",
+        "WARDS": [
+          {
+            "wardname": "OYI",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "AYETIORO",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "ISINMI",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "BALOGUN",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "OBAALE",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "AWORO/OKE-ILA RURAL",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "ASAONI",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "CO-OPERATIVE",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "AKESIN",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "TEMIDIRE",
+            "wardcode": "10"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "IFE EAST",
+        "LGA CODE": "13",
+        "WARDS": [
+          {
+            "wardname": "MORE",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "ILODE I",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "OLODE II",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "OKEREWE I",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "OKEREWE II",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "OKEREWE III",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "YEKEMI",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "MODAKEKE I",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "MODAKEKE II",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "MODAKEKE III",
+            "wardcode": "10"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "IFELODUN",
+        "LGA CODE": "14",
+        "WARDS": [
+          {
+            "wardname": "EESA IKIRUN",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "AMOLA IKIRUN",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "OWODE IKIRUN",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "ISALE/OKE AFO",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "IRIRUN RURAL",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "STATION ROAD, IKIRUN",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "OKERBA IKIRUN",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "OLONDE IKIRUN",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "IBA I",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "IBA II",
+            "wardcode": "10"
+          },
+          {
+            "wardname": "OBAGUN",
+            "wardcode": ""
+          },
+          {
+            "wardname": "EKOENDE/EKO AJALA",
+            "wardcode": "11"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "IFE NORTH",
+        "LGA CODE": "15",
+        "WARDS": [
+          {
+            "wardname": "ASIPA/AKINALU",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "EDUNABON I",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "EDUNABON II",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "FAMIA",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "YAKOYO",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "IPETUMODU I",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "IPETUMODU II",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "MOKO",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "OYERE I",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "OYERE II",
+            "wardcode": "10"
+          },
+          {
+            "LGA NAME": "IFE SOUTH",
+            "LGA CODE": "16",
+            "wardname": "AYESAN",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "IKIJA I",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "IKIJA II",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "OGBON ARE",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "MEFOWORADE",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "OKE OWENA",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "OLODE",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "OSI",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "KERE",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "ABIRI OGUDU",
+            "wardcode": "10"
+          },
+          {
+            "wardname": "AYE",
+            "wardcode": "11"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "ILA",
+        "LGA CODE": "17",
+        "WARDS": [
+          {
+            "wardname": "EJIGBO I",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "EJIGBO II",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "EJIGBO III",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "ISEDO I",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "ISEDO II",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "IPERIN",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "EYINDI",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "OKE-OLA",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "OKE-EDE",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "EYINDI/IPERIN",
+            "wardcode": "10"
+          },
+          {
+            "wardname": "AJABA/EDEMOSI/ABAORA NGUN",
+            "wardcode": "11"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "ILESA EAST",
+        "LGA CODE": "18",
+        "WARDS": [
+          {
+            "wardname": "OKESA",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "IMO",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "IFOSAN/OKE-ESO",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "ITISIN/OGUDU",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "IJAMO",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "UPPER AND LOWER IJOKA",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "ILORO/IROYE",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "ISAR",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "ILERIN",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "BOLORUNDURO",
+            "wardcode": "10"
+          },
+          {
+            "wardname": "BILADU",
+            "wardcode": "11"
+          },
+          {
+            "LGA NAME": "ILESA WEST",
+            "LGA CODE": "19",
+            "wardname": "ITAKOGUN",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "LOWER EGBEDI",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "UPPER AND LOWER IGBOGI",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "OMOFE/IDASA",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "ISOKUN",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "IKOTI/ARAROMI",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "ILAJE",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "ISIDA/IKOTI",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "REJA",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "AYEDO",
+            "wardcode": "10"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "IREPODUN",
+        "LGA CODE": "20",
+        "WARDS": [
+          {
+            "wardname": "OLOBU A",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "OLOBU B",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "OLOBU C",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "OLOBU D",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "BARA A",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "BARA B",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "ELERIN A",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "ELERIN B",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "ELERIN C",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "ELERIN D",
+            "wardcode": "10"
+          },
+          {
+            "wardname": "ELERIN E",
+            "wardcode": "11"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "IREWOLE",
+        "LGA CODE": "21",
+        "WARDS": [
+          {
+            "wardname": "IKIRE A",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "IKIRE B",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "IKIRE C",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "IKIRE D",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "IKIRE E",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "IKIRE F",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "IKIRE G",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "IKIRE H",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "IKIRE I",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "IKIRE J",
+            "wardcode": "10"
+          },
+          {
+            "wardname": "IKIRE K",
+            "wardcode": "11"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "ISOKAN",
+        "LGA CODE": "22",
+        "WARDS": [
+          {
+            "wardname": "OLUKOYI (OJA-OSUN)",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "OSA IKOYI (OLOKE)",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "ASALU IKOYI (ABIRI)",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "ORANRAN WARD",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "IDOGUN WARD",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "ALAPOMU I (ODO-OSUN)",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "ALAPOMU II",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "ASALU (MOGIMOGI)",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "OOSA (ADIFA)",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "AWALA I",
+            "wardcode": "10"
+          },
+          {
+            "wardname": "AWALA II",
+            "wardcode": "11"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "IWO",
+        "LGA CODE": "23",
+        "WARDS": [
+          {
+            "wardname": "ISALE OBA I",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "ISALE OBA II",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "ISALE OBA III",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "ISALE OBA IV",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "MOLETE I",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "NOLETE II",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "MOLETE III",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "OKE-ADAN I",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "OKE-ADAN II",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "OKE-ADAN III",
+            "wardcode": "10"
+          },
+          {
+            "wardname": "GIDIGBO I",
+            "wardcode": "11"
+          },
+          {
+            "wardname": "GIDIGBO II",
+            "wardcode": "12"
+          },
+          {
+            "wardname": "GIDIGBO III",
+            "wardcode": "13"
+          },
+          {
+            "wardname": "OKE OBA I",
+            "wardcode": "14"
+          },
+          {
+            "wardname": "OKE OBA II",
+            "wardcode": "15"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "OBOKUN",
+        "LGA CODE": "24",
+        "WARDS": [
+          {
+            "wardname": "IBOKUN",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "IPETU-ILE/ADAOWODE",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "ILAHUN/IKINYINWA",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "ILASE/IDOMINASI",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "EESUN/IDO-OKO",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "IMESI-ILE",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "ESA-OKE",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "OTAN-ILE",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "ESA-ODO",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "ILARE",
+            "wardcode": "10"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "ODO-OTIN",
+        "LGA CODE": "25",
+        "WARDS": [
+          {
+            "wardname": "OBA/OJOMU",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "BAALE",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "IGBAYE",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "FAJI/OPETE",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "EKOSIN/IYEKU",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "ORE/AGBEYE",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "IJABE/ILA ODO",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "OKUA/EKUSA",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "ASI/ASABA",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "OLUNISA",
+            "wardcode": "10"
+          },
+          {
+            "wardname": "OLUKOTUN",
+            "wardcode": "11"
+          },
+          {
+            "wardname": "ESA-OTUN BAALE OFE",
+            "wardcode": "12"
+          },
+          {
+            "wardname": "JAGUN OSI BAALE ODE",
+            "wardcode": "13"
+          },
+          {
+            "wardname": "OLOYAN ELEMOSHO",
+            "wardcode": "14"
+          },
+          {
+            "wardname": "OSOLO/OPARIN",
+            "wardcode": "15"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "OLA-OLUWA",
+        "LGA CODE": "26",
+        "WARDS": [
+          {
+            "wardname": "TELEMU",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "ASAMU/ILEMOWU",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "OGBAAGBA I",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "OGBAAGBA II",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "IKIRE ILE/IWARA",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "ISERO/IKONMOFIN",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "OBAMORO/ILE-OGO",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "BODE-OSI",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "AJAGBA/ILO OKE",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "ASA AJAGUNLASE",
+            "wardcode": "10"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "OLORUNDA",
+        "LGA CODE": "27",
+        "WARDS": [
+          {
+            "wardname": "AGOWANDE",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "BALOGUN",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "AKOGUN",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "ATELEWO",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "OWOOPE",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "OWODE I",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "OWODE II",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "AYETORO",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "OBA-ILE",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "OBA-OKE",
+            "wardcode": "10"
+          },
+          {
+            "wardname": "ILIE",
+            "wardcode": "11"
+          },
+          {
+            "LGA NAME": "ORIADE",
+            "LGA CODE": "28",
+            "wardname": "ERIN-OKE",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "ERIN-IJESA",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "IJEBU JESA",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "IWOYE",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "IKEJI-ILE",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "IRA",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "IKEJI ARAKIJI/OWENA",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "APOTI/DGBAJA",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "IPETU IJESA I",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "IPETU IJESA II",
+            "wardcode": "10"
+          },
+          {
+            "wardname": "IJEDA ILOKO",
+            "wardcode": "11"
+          },
+          {
+            "wardname": "ERINMO/IWARAJA",
+            "wardcode": "12"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "OROLU",
+        "LGA CODE": "29",
+        "WARDS": [
+          {
+            "wardname": "OLUFON OROLU A",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "OLUSON OROLU B",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "OLUFON OROLU C",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "OLUFON OROLU D",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "ORUFON OROLU E",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "OLUFON OROLU F",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "OLUFON OROLUG",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "ORUFON OROLU H",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "OLUFON OROLU I",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "OLUFON OROLU J",
+            "wardcode": "10"
+          }
+        ]
+      },
+      {
+        "LGA NAME": "OSOGBO",
+        "LGA CODE": "30",
+        "WARDS": [
+          {
+            "wardname": "ATAOJA A",
+            "wardcode": "1"
+          },
+          {
+            "wardname": "ATAOJA B",
+            "wardcode": "2"
+          },
+          {
+            "wardname": "ATAOJA C",
+            "wardcode": "3"
+          },
+          {
+            "wardname": "ATAOJA D",
+            "wardcode": "4"
+          },
+          {
+            "wardname": "ATAOJA E",
+            "wardcode": "5"
+          },
+          {
+            "wardname": "OTUN JAGUN B",
+            "wardcode": "6"
+          },
+          {
+            "wardname": "ALAGBA",
+            "wardcode": "7"
+          },
+          {
+            "wardname": "ARE-AGO",
+            "wardcode": "8"
+          },
+          {
+            "wardname": "JAGUN A",
+            "wardcode": "9"
+          },
+          {
+            "wardname": "JAGUN B",
+            "wardcode": "10"
+          },
+          {
+            "wardname": "BABA KEKERE",
+            "wardcode": "11"
+          },
+          {
+            "wardname": "OTUN JAGUN A",
+            "wardcode": "12"
+          },
+          {
+            "wardname": "EKETA",
+            "wardcode": "13"
+          },
+          {
+            "wardname": "OTUN BALOGUN A",
+            "wardcode": "14"
+          },
+          {
+            "wardname": "EKERIN",
+            "wardcode": "15"
+          }
+        ]
+      }
     ]
-},
-{
-  "LGA NAME": "EGBEDORE",
-  "LGA CODE": "9",
-  "WARDS":[ {
-    "WARD NAME": "AWO/ABUDO",
-     "WARD CODE": "1"
-   },
-   {
-     
-     "WARD NAME": "ARA I",
-     "WARD CODE": "2"
-   },
-   {
-     
-     "WARD NAME": "ARA II",
-     "WARD CODE": "3"
-   },
-   {
-     
-     "WARD NAME": "IDO-OSUN",
-     "WARD CODE": "4"
-   },
-   {
-     
-     "WARD NAME": "IRAGBERE I",
-     "WARD CODE": "5"
-   },
-   {
-     
-     "WARD NAME": "IRAGBERE II",
-     "WARD CODE": "6"
-   },
-   {
-     
-     "WARD NAME": "IWOYE/IDO/ORIGO",
-     "WARD CODE": "7"
-   },
-   {
-     
-     "WARD NAME": "IKOTUN",
-     "WARD CODE": "8"
-   },
-   {
-     
-     "WARD NAME": "OJO/ARO",
-     "WARD CODE": "9"
-   },
-   {
-     
-     "WARD NAME": "OKINNI/OLORUNSOGO/OF ATEDO",
-     "WARD CODE": "10"
-   }]
-},
-
-{
-  "LGA NAME": "EJIGBO",
-      "LGA CODE": "10",
-  "WARDS":[ {
-      
-    "WARD NAME": "ELEJIGBO �A�",
-    "WARD CODE": "1"
-  },
-  {
-    
-    "WARD NAME": "ELEJIGBO �B�/OSOLO",
-    "WARD CODE": "2"
-  },
-  {
-    
-    "WARD NAME": "ELEJIGBO �C�/MAPO",
-    "WARD CODE": "3"
-  },
-  {
-    
-    "WARD NAME": "ELEJIGBO �D�/EJEMU",
-    "WARD CODE": "4"
-  },
-  {
-    
-    "WARD NAME": "LELJIGBO/AYEGBOGBO",
-    "WARD CODE": "5"
-  },
-  {
-    
-    "WARD NAME": "OLA/AYE/AGURODO",
-    "WARD CODE": "6"
-  },
-  {
-    
-    "WARD NAME": "IFEODAN�A�/OWU-ILE",
-    "WARD CODE": "7"
-  },
-  {
-    
-    "WARD NAME": "IFEODAN �B�/MASIFA",
-    "WARD CODE": "8"
-  },
-  {
-    
-    "WARD NAME": "ILAWO/ISOKO/ISUNDUNRI N",
-    "WARD CODE": "9"
-  },
-  {
-    
-    "WARD NAME": "INISA/AATO/IGBON",
-    "WARD CODE": "10"
-  },
-  {
-    
-    "WARD NAME": "INISA II/AFAAKE/AYEGUNLE",
-    "WARD CODE": "11"
-  }]
-},
-
-{ "LGA NAME": "IFE CENTRAL",
-  "LGA CODE": "11",
-  "WARDS":[
-    {
-      "WARD NAME": "ILARE I",
-      "WARD CODE": "1"
-    },
-    {
-      
-      "WARD NAME": "ILARE II",
-      "WARD CODE": "2"
-    },
-    {
-      
-      "WARD NAME": "ILARE III",
-      "WARD CODE": "3"
-    },
-    {
-      
-      "WARD NAME": "ILARE IV",
-      "WARD CODE": "4"
-    },
-    {
-      
-      "WARD NAME": "IREMO I (AJEBANDELE)",
-      "WARD CODE": "5"
-    },
-    {
-      
-      "WARD NAME": "IREMO II (ELEYELE)",
-      "WARD CODE": "6"
-    },
-    {
-      
-      "WARD NAME": "IREMO III",
-      "WARD CODE": "7"
-    },
-    {
-      
-      "WARD NAME": "IREMO IV",
-      "WARD CODE": "8"
-    },
-    {
-      
-      "WARD NAME": "IREMO V",
-      "WARD CODE": "9"
-    },
-    {
-      
-      "WARD NAME": "AKARABATA",
-      "WARD CODE": "10"
-    },
-    {
-      
-      "WARD NAME": "MORE OJAJA",
-      "WARD CODE": "11"
-    }]
-},
-
-{
-  "LGA NAME": "IFEDAYO",
-      "LGA CODE": "12",
-  "WARDS":[ {
-    "WARD NAME": "OYI",
-    "WARD CODE": "1"
-  },
-  {
-    
-    "WARD NAME": "AYETIORO",
-    "WARD CODE": "2"
-  },
-  {
-    
-    "WARD NAME": "ISINMI",
-    "WARD CODE": "3"
-  },
-  {
-    
-    "WARD NAME": "BALOGUN",
-    "WARD CODE": "4"
-  },
-  {
-    
-    "WARD NAME": "OBAALE",
-    "WARD CODE": "5"
-  },
-  {
-    
-    "WARD NAME": "AWORO/OKE-ILA RURAL",
-    "WARD CODE": "6"
-  },
-  {
-    
-    "WARD NAME": "ASAONI",
-    "WARD CODE": "7"
-  },
-  {
-    
-    "WARD NAME": "CO-OPERATIVE",
-    "WARD CODE": "8"
-  },
-  {
-    
-    "WARD NAME": "AKESIN",
-    "WARD CODE": "9"
-  },
-  {
-    
-    "WARD NAME": "TEMIDIRE",
-    "WARD CODE": "10"
-  }]
-},
-{
-  "LGA NAME": "IFE EAST",
-      "LGA CODE": "13",
-  "WARDS":[ {
-     
-    "WARD NAME": "MORE",
-    "WARD CODE": "1"
-  },
-  {
-    
-    "WARD NAME": "ILODE I",
-    "WARD CODE": "2"
-  },
-  {
-    
-    "WARD NAME": "OLODE II",
-    "WARD CODE": "3"
-  },
-  {
-    
-    "WARD NAME": "OKEREWE I",
-    "WARD CODE": "4"
-  },
-  {
-    
-    "WARD NAME": "OKEREWE II",
-    "WARD CODE": "5"
-  },
-  {
-    
-    "WARD NAME": "OKEREWE III",
-    "WARD CODE": "6"
-  },
-  {
-    
-    "WARD NAME": "YEKEMI",
-    "WARD CODE": "7"
-  },
-  {
-    
-    "WARD NAME": "MODAKEKE I",
-    "WARD CODE": "8"
-  },
-  {
-    
-    "WARD NAME": "MODAKEKE II",
-    "WARD CODE": "9"
-  },
-  {
-    
-    "WARD NAME": "MODAKEKE III",
-    "WARD CODE": "10"
-  }]
-},
-{
-  "LGA NAME": "IFELODUN",
-      "LGA CODE": "14",
-  "WARDS":[ {
-    "WARD NAME": "EESA IKIRUN",
-    "WARD CODE": "1"
-  },
-  {
-    
-    "WARD NAME": "AMOLA IKIRUN",
-    "WARD CODE": "2"
-  },
-  {
-    
-    "WARD NAME": "OWODE IKIRUN",
-    "WARD CODE": "3"
-  },
-  {
-    
-    "WARD NAME": "ISALE/OKE AFO",
-    "WARD CODE": "4"
-  },
-  {
-    
-    "WARD NAME": "IRIRUN RURAL",
-    "WARD CODE": "5"
-  },
-  {
-    
-    "WARD NAME": "STATION ROAD, IKIRUN",
-    "WARD CODE": "6"
-  },
-  {
-    
-    "WARD NAME": "OKERBA IKIRUN",
-    "WARD CODE": "7"
-  },
-  {
-    
-    "WARD NAME": "OLONDE IKIRUN",
-    "WARD CODE": "8"
-  },
-  {
-    
-    "WARD NAME": "IBA I",
-    "WARD CODE": "9"
-  },
-  {
-    
-    "WARD NAME": "IBA II",
-    "WARD CODE": "10"
-  },
-  {
-    
-    "WARD NAME": "OBAGUN",
-    "WARD CODE": ""
-  },
-  {
-    
-    "WARD NAME": "EKOENDE/EKO AJALA",
-    "WARD CODE": "11"
-  }]
-},
-{
-  "LGA NAME": "IFE NORTH",
-  "LGA CODE": "15",
-  "WARDS":[ {
-      
-    "WARD NAME": "ASIPA/AKINALU",
-    "WARD CODE": "1"
-  },
-  {
-    
-    "WARD NAME": "EDUNABON I",
-    "WARD CODE": "2"
-  },
-  {
-    
-    "WARD NAME": "EDUNABON II",
-    "WARD CODE": "3"
-  },
-  {
-    
-    "WARD NAME": "FAMIA",
-    "WARD CODE": "4"
-  },
-  {
-    
-    "WARD NAME": "YAKOYO",
-    "WARD CODE": "5"
-  },
-  {
-    
-    "WARD NAME": "IPETUMODU I",
-    "WARD CODE": "6"
-  },
-  {
-    
-    "WARD NAME": "IPETUMODU II",
-    "WARD CODE": "7"
-  },
-  {
-    
-    "WARD NAME": "MOKO",
-    "WARD CODE": "8"
-  },
-  {
-    
-    "WARD NAME": "OYERE I",
-    "WARD CODE": "9"
-  },
-  {
-    
-    "WARD NAME": "OYERE II",
-    "WARD CODE": "10"
-  },
-  {
-    "LGA NAME": "IFE SOUTH",
-    "LGA CODE": "16",
-    "WARD NAME": "AYESAN",
-    "WARD CODE": "1"
-  },
-  {
-    
-    "WARD NAME": "IKIJA I",
-    "WARD CODE": "2"
-  },
-  {
-    
-    "WARD NAME": "IKIJA II",
-    "WARD CODE": "3"
-  },
-  {
-    
-    "WARD NAME": "OGBON ARE",
-    "WARD CODE": "4"
-  },
-  {
-    
-    "WARD NAME": "MEFOWORADE",
-    "WARD CODE": "5"
-  },
-  {
-    
-    "WARD NAME": "OKE OWENA",
-    "WARD CODE": "6"
-  },
-  {
-    
-    "WARD NAME": "OLODE",
-    "WARD CODE": "7"
-  },
-  {
-    
-    "WARD NAME": "OSI",
-    "WARD CODE": "8"
-  },
-  {
-    
-    "WARD NAME": "KERE",
-    "WARD CODE": "9"
-  },
-  {
-    
-    "WARD NAME": "ABIRI OGUDU",
-    "WARD CODE": "10"
-  },
-  {
-    
-    "WARD NAME": "AYE",
-    "WARD CODE": "11"
-  }]
-},
-{
-  "LGA NAME": "ILA",
-  "LGA CODE": "17",
-  "WARDS":[ {
-     
-    "WARD NAME": "EJIGBO I",
-    "WARD CODE": "1"
-  },
-  {
-    
-    "WARD NAME": "EJIGBO II",
-    "WARD CODE": "2"
-  },
-  {
-    
-    "WARD NAME": "EJIGBO III",
-    "WARD CODE": "3"
-  },
-  {
-    
-    "WARD NAME": "ISEDO I",
-    "WARD CODE": "4"
-  },
-  {
-    
-    "WARD NAME": "ISEDO II",
-    "WARD CODE": "5"
-  },
-  {
-    
-    "WARD NAME": "IPERIN",
-    "WARD CODE": "6"
-  },
-  {
-    
-    "WARD NAME": "EYINDI",
-    "WARD CODE": "7"
-  },
-  {
-    
-    "WARD NAME": "OKE-OLA",
-    "WARD CODE": "8"
-  },
-  {
-    
-    "WARD NAME": "OKE-EDE",
-    "WARD CODE": "9"
-  },
-  {
-    
-    "WARD NAME": "EYINDI/IPERIN",
-    "WARD CODE": "10"
-  },
-  {
-    
-    "WARD NAME": "AJABA/EDEMOSI/ABAORA NGUN",
-    "WARD CODE": "11"
-  }]
-},
-{
-  "LGA NAME": "ILESA EAST",
-      "LGA CODE": "18",
-  "WARDS":[ {
-     
-    "WARD NAME": "OKESA",
-    "WARD CODE": "1"
-  },
-  {
-    
-    "WARD NAME": "IMO",
-    "WARD CODE": "2"
-  },
-  {
-    
-    "WARD NAME": "IFOSAN/OKE-ESO",
-    "WARD CODE": "3"
-  },
-  {
-    
-    "WARD NAME": "ITISIN/OGUDU",
-    "WARD CODE": "4"
-  },
-  {
-    
-    "WARD NAME": "IJAMO",
-    "WARD CODE": "5"
-  },
-  {
-    
-    "WARD NAME": "UPPER AND LOWER IJOKA",
-    "WARD CODE": "6"
-  },
-  {
-    
-    "WARD NAME": "ILORO/IROYE",
-    "WARD CODE": "7"
-  },
-  {
-    
-    "WARD NAME": "ISAR",
-    "WARD CODE": "8"
-  },
-  {
-    
-    "WARD NAME": "ILERIN",
-    "WARD CODE": "9"
-  },
-  {
-    
-    "WARD NAME": "BOLORUNDURO",
-    "WARD CODE": "10"
-  },
-  {
-    
-    "WARD NAME": "BILADU",
-    "WARD CODE": "11"
-  },
-  {
-    "LGA NAME": "ILESA WEST",
-    "LGA CODE": "19",
-    "WARD NAME": "ITAKOGUN",
-    "WARD CODE": "1"
-  },
-  {
-    
-    "WARD NAME": "LOWER EGBEDI",
-    "WARD CODE": "2"
-  },
-  {
-    
-    "WARD NAME": "UPPER AND LOWER IGBOGI",
-    "WARD CODE": "3"
-  },
-  {
-    
-    "WARD NAME": "OMOFE/IDASA",
-    "WARD CODE": "4"
-  },
-  {
-    
-    "WARD NAME": "ISOKUN",
-    "WARD CODE": "5"
-  },
-  {
-    
-    "WARD NAME": "IKOTI/ARAROMI",
-    "WARD CODE": "6"
-  },
-  {
-    
-    "WARD NAME": "ILAJE",
-    "WARD CODE": "7"
-  },
-  {
-    
-    "WARD NAME": "ISIDA/IKOTI",
-    "WARD CODE": "8"
-  },
-  {
-    
-    "WARD NAME": "REJA",
-    "WARD CODE": "9"
-  },
-  {
-    
-    "WARD NAME": "AYEDO",
-    "WARD CODE": "10"
-  }]
-},
-{
-  "LGA NAME": "IREPODUN",
-  "LGA CODE": "20",
-  "WARDS":[ {
-     
-    "WARD NAME": "OLOBU A",
-    "WARD CODE": "1"
-  },
-  {
-    
-    "WARD NAME": "OLOBU B",
-    "WARD CODE": "2"
-  },
-  {
-    
-    "WARD NAME": "OLOBU C",
-    "WARD CODE": "3"
-  },
-  {
-    
-    "WARD NAME": "OLOBU D",
-    "WARD CODE": "4"
-  },
-  {
-    
-    "WARD NAME": "BARA A",
-    "WARD CODE": "5"
-  },
-  {
-    
-    "WARD NAME": "BARA B",
-    "WARD CODE": "6"
-  },
-  {
-    
-    "WARD NAME": "ELERIN A",
-    "WARD CODE": "7"
-  },
-  {
-    
-    "WARD NAME": "ELERIN B",
-    "WARD CODE": "8"
-  },
-  {
-    
-    "WARD NAME": "ELERIN C",
-    "WARD CODE": "9"
-  },
-  {
-    
-    "WARD NAME": "ELERIN D",
-    "WARD CODE": "10"
-  },
-  {
-    
-    "WARD NAME": "ELERIN E",
-    "WARD CODE": "11"
-  }]
-},
-{
-  "LGA NAME": "IREWOLE",
-  "LGA CODE": "21",
-  "WARDS":[{
-     
-    "WARD NAME": "IKIRE A",
-    "WARD CODE": "1"
-  },
-  {
-    
-    "WARD NAME": "IKIRE B",
-    "WARD CODE": "2"
-  },
-  {
-    
-    "WARD NAME": "IKIRE C",
-    "WARD CODE": "3"
-  },
-  {
-    
-    "WARD NAME": "IKIRE D",
-    "WARD CODE": "4"
-  },
-  {
-    
-    "WARD NAME": "IKIRE E",
-    "WARD CODE": "5"
-  },
-  {
-    
-    "WARD NAME": "IKIRE F",
-    "WARD CODE": "6"
-  },
-  {
-    
-    "WARD NAME": "IKIRE G",
-    "WARD CODE": "7"
-  },
-  {
-    
-    "WARD NAME": "IKIRE H",
-    "WARD CODE": "8"
-  },
-  {
-    
-    "WARD NAME": "IKIRE I",
-    "WARD CODE": "9"
-  },
-  {
-    
-    "WARD NAME": "IKIRE J",
-    "WARD CODE": "10"
-  },
-  {
-    
-    "WARD NAME": "IKIRE K",
-    "WARD CODE": "11"
-  }]
-},
-{
-  "LGA NAME": "ISOKAN",
-      "LGA CODE": "22",
-  "WARDS":[ 
-    {
-      
-      "WARD NAME": "OLUKOYI (OJA-OSUN)",
-      "WARD CODE": "1"
-    },
-    {
-      
-      "WARD NAME": "OSA IKOYI (OLOKE)",
-      "WARD CODE": "2"
-    },
-    {
-      
-      "WARD NAME": "ASALU IKOYI (ABIRI)",
-      "WARD CODE": "3"
-    },
-    {
-      
-      "WARD NAME": "ORANRAN WARD",
-      "WARD CODE": "4"
-    },
-    {
-      
-      "WARD NAME": "IDOGUN WARD",
-      "WARD CODE": "5"
-    },
-    {
-      
-      "WARD NAME": "ALAPOMU I (ODO-OSUN)",
-      "WARD CODE": "6"
-    },
-    {
-      
-      "WARD NAME": "ALAPOMU II",
-      "WARD CODE": "7"
-    },
-    {
-      
-      "WARD NAME": "ASALU (MOGIMOGI)",
-      "WARD CODE": "8"
-    },
-    {
-      
-      "WARD NAME": "OOSA (ADIFA)",
-      "WARD CODE": "9"
-    },
-    {
-      
-      "WARD NAME": "AWALA I",
-      "WARD CODE": "10"
-    },
-    {
-      
-      "WARD NAME": "AWALA II",
-      "WARD CODE": "11"
-    }]
-},
-{
-  "LGA NAME": "IWO",
-  "LGA CODE": "23",
-  "WARDS":[ 
-    {
-      
-      "WARD NAME": "ISALE OBA I",
-      "WARD CODE": "1"
-    },
-    {
-      
-      "WARD NAME": "ISALE OBA II",
-      "WARD CODE": "2"
-    },
-    {
-      
-      "WARD NAME": "ISALE OBA III",
-      "WARD CODE": "3"
-    },
-    {
-      
-      "WARD NAME": "ISALE OBA IV",
-      "WARD CODE": "4"
-    },
-    {
-      
-      "WARD NAME": "MOLETE I",
-      "WARD CODE": "5"
-    },
-    {
-      
-      "WARD NAME": "NOLETE II",
-      "WARD CODE": "6"
-    },
-    {
-      
-      "WARD NAME": "MOLETE III",
-      "WARD CODE": "7"
-    },
-    {
-      
-      "WARD NAME": "OKE-ADAN I",
-      "WARD CODE": "8"
-    },
-    {
-      
-      "WARD NAME": "OKE-ADAN II",
-      "WARD CODE": "9"
-    },
-    {
-      
-      "WARD NAME": "OKE-ADAN III",
-      "WARD CODE": "10"
-    },
-    {
-      
-      "WARD NAME": "GIDIGBO I",
-      "WARD CODE": "11"
-    },
-    {
-      
-      "WARD NAME": "GIDIGBO II",
-      "WARD CODE": "12"
-    },
-    {
-      
-      "WARD NAME": "GIDIGBO III",
-      "WARD CODE": "13"
-    },
-    {
-      
-      "WARD NAME": "OKE OBA I",
-      "WARD CODE": "14"
-    },
-    {
-      
-      "WARD NAME": "OKE OBA II",
-      "WARD CODE": "15"
-    }]
-},
-
-{
-  "LGA NAME": "OBOKUN",
-  "LGA CODE": "24",
-  "WARDS":[
-    {
-     
-      "WARD NAME": "IBOKUN",
-      "WARD CODE": "1"
-    },
-    {
-      
-      "WARD NAME": "IPETU-ILE/ADAOWODE",
-      "WARD CODE": "2"
-    },
-    {
-      
-      "WARD NAME": "ILAHUN/IKINYINWA",
-      "WARD CODE": "3"
-    },
-    {
-      
-      "WARD NAME": "ILASE/IDOMINASI",
-      "WARD CODE": "4"
-    },
-    {
-      
-      "WARD NAME": "EESUN/IDO-OKO",
-      "WARD CODE": "5"
-    },
-    {
-      
-      "WARD NAME": "IMESI-ILE",
-      "WARD CODE": "6"
-    },
-    {
-      
-      "WARD NAME": "ESA-OKE",
-      "WARD CODE": "7"
-    },
-    {
-      
-      "WARD NAME": "OTAN-ILE",
-      "WARD CODE": "8"
-    },
-    {
-      
-      "WARD NAME": "ESA-ODO",
-      "WARD CODE": "9"
-    },
-    {
-      
-      "WARD NAME": "ILARE",
-      "WARD CODE": "10"
-    }]
-},
-{
-  "LGA NAME": "ODO-OTIN",
-      "LGA CODE": "25",
-  "WARDS":[ {
-      
-    "WARD NAME": "OBA/OJOMU",
-    "WARD CODE": "1"
-  },
-  {
-    
-    "WARD NAME": "BAALE",
-    "WARD CODE": "2"
-  },
-  {
-    
-    "WARD NAME": "IGBAYE",
-    "WARD CODE": "3"
-  },
-  {
-    
-    "WARD NAME": "FAJI/OPETE",
-    "WARD CODE": "4"
-  },
-  {
-    
-    "WARD NAME": "EKOSIN/IYEKU",
-    "WARD CODE": "5"
-  },
-  {
-    
-    "WARD NAME": "ORE/AGBEYE",
-    "WARD CODE": "6"
-  },
-  {
-    
-    "WARD NAME": "IJABE/ILA ODO",
-    "WARD CODE": "7"
-  },
-  {
-    
-    "WARD NAME": "OKUA/EKUSA",
-    "WARD CODE": "8"
-  },
-  {
-    
-    "WARD NAME": "ASI/ASABA",
-    "WARD CODE": "9"
-  },
-  {
-    
-    "WARD NAME": "OLUNISA",
-    "WARD CODE": "10"
-  },
-  {
-    
-    "WARD NAME": "OLUKOTUN",
-    "WARD CODE": "11"
-  },
-  {
-    
-    "WARD NAME": "ESA-OTUN BAALE OFE",
-    "WARD CODE": "12"
-  },
-  {
-    
-    "WARD NAME": "JAGUN OSI BAALE ODE",
-    "WARD CODE": "13"
-  },
-  {
-    
-    "WARD NAME": "OLOYAN ELEMOSHO",
-    "WARD CODE": "14"
-  },
-  {
-    
-    "WARD NAME": "OSOLO/OPARIN",
-    "WARD CODE": "15"
-  }]
-},
-{
-  "LGA NAME": "OLA-OLUWA",
-  "LGA CODE": "26",
-  "WARDS":[  {
-      
-    "WARD NAME": "TELEMU",
-    "WARD CODE": "1"
-  },
-  {
-    
-    "WARD NAME": "ASAMU/ILEMOWU",
-    "WARD CODE": "2"
-  },
-  {
-    
-    "WARD NAME": "OGBAAGBA I",
-    "WARD CODE": "3"
-  },
-  {
-    
-    "WARD NAME": "OGBAAGBA II",
-    "WARD CODE": "4"
-  },
-  {
-    
-    "WARD NAME": "IKIRE ILE/IWARA",
-    "WARD CODE": "5"
-  },
-  {
-    
-    "WARD NAME": "ISERO/IKONMOFIN",
-    "WARD CODE": "6"
-  },
-  {
-    
-    "WARD NAME": "OBAMORO/ILE-OGO",
-    "WARD CODE": "7"
-  },
-  {
-    
-    "WARD NAME": "BODE-OSI",
-    "WARD CODE": "8"
-  },
-  {
-    
-    "WARD NAME": "AJAGBA/ILO OKE",
-    "WARD CODE": "9"
-  },
-  {
-    
-    "WARD NAME": "ASA AJAGUNLASE",
-    "WARD CODE": "10"
-  }]
-},
-{
-  "LGA NAME": "OLORUNDA",
-      "LGA CODE": "27",
-  "WARDS":[ 
-    {
-      
-      "WARD NAME": "AGOWANDE",
-      "WARD CODE": "1"
-    },
-    {
-      
-      "WARD NAME": "BALOGUN",
-      "WARD CODE": "2"
-    },
-    {
-      
-      "WARD NAME": "AKOGUN",
-      "WARD CODE": "3"
-    },
-    {
-      
-      "WARD NAME": "ATELEWO",
-      "WARD CODE": "4"
-    },
-    {
-      
-      "WARD NAME": "OWOOPE",
-      "WARD CODE": "5"
-    },
-    {
-      
-      "WARD NAME": "OWODE I",
-      "WARD CODE": "6"
-    },
-    {
-      
-      "WARD NAME": "OWODE II",
-      "WARD CODE": "7"
-    },
-    {
-      
-      "WARD NAME": "AYETORO",
-      "WARD CODE": "8"
-    },
-    {
-      
-      "WARD NAME": "OBA-ILE",
-      "WARD CODE": "9"
-    },
-    {
-      
-      "WARD NAME": "OBA-OKE",
-      "WARD CODE": "10"
-    },
-    {
-      
-      "WARD NAME": "ILIE",
-      "WARD CODE": "11"
-    },
-    {
-      "LGA NAME": "ORIADE",
-      "LGA CODE": "28",
-      "WARD NAME": "ERIN-OKE",
-      "WARD CODE": "1"
-    },
-    {
-      
-      "WARD NAME": "ERIN-IJESA",
-      "WARD CODE": "2"
-    },
-    {
-      
-      "WARD NAME": "IJEBU JESA",
-      "WARD CODE": "3"
-    },
-    {
-      
-      "WARD NAME": "IWOYE",
-      "WARD CODE": "4"
-    },
-    {
-      
-      "WARD NAME": "IKEJI-ILE",
-      "WARD CODE": "5"
-    },
-    {
-      
-      "WARD NAME": "IRA",
-      "WARD CODE": "6"
-    },
-    {
-      
-      "WARD NAME": "IKEJI ARAKIJI/OWENA",
-      "WARD CODE": "7"
-    },
-    {
-      
-      "WARD NAME": "APOTI/DGBAJA",
-      "WARD CODE": "8"
-    },
-    {
-      
-      "WARD NAME": "IPETU IJESA I",
-      "WARD CODE": "9"
-    },
-    {
-      
-      "WARD NAME": "IPETU IJESA II",
-      "WARD CODE": "10"
-    },
-    {
-      
-      "WARD NAME": "IJEDA ILOKO",
-      "WARD CODE": "11"
-    },
-    {
-      
-      "WARD NAME": "ERINMO/IWARAJA",
-      "WARD CODE": "12"
-    }]
-},
-{
-  "LGA NAME": "OROLU",
-  "LGA CODE": "29",
-  "WARDS":[{
-     
-    "WARD NAME": "OLUFON OROLU A",
-    "WARD CODE": "1"
-  },
-  {
-    
-    "WARD NAME": "OLUSON OROLU B",
-    "WARD CODE": "2"
-  },
-  {
-    
-    "WARD NAME": "OLUFON OROLU C",
-    "WARD CODE": "3"
-  },
-  {
-    
-    "WARD NAME": "OLUFON OROLU D",
-    "WARD CODE": "4"
-  },
-  {
-    
-    "WARD NAME": "ORUFON OROLU E",
-    "WARD CODE": "5"
-  },
-  {
-    
-    "WARD NAME": "OLUFON OROLU F",
-    "WARD CODE": "6"
-  },
-  {
-    
-    "WARD NAME": "OLUFON OROLUG",
-    "WARD CODE": "7"
-  },
-  {
-    
-    "WARD NAME": "ORUFON OROLU H",
-    "WARD CODE": "8"
-  },
-  {
-    
-    "WARD NAME": "OLUFON OROLU I",
-    "WARD CODE": "9"
-  },
-  {
-    
-    "WARD NAME": "OLUFON OROLU J",
-    "WARD CODE": "10"
-  }]
-},
-{
-  "LGA NAME": "OSOGBO",
-  "LGA CODE": "30",
-  "WARDS":[  
-    {
-     
-      "WARD NAME": "ATAOJA A",
-      "WARD CODE": "1"
-    },
-    {
-      
-      "WARD NAME": "ATAOJA B",
-      "WARD CODE": "2"
-    },
-    {
-      
-      "WARD NAME": "ATAOJA C",
-      "WARD CODE": "3"
-    },
-    {
-      
-      "WARD NAME": "ATAOJA D",
-      "WARD CODE": "4"
-    },
-    {
-      
-      "WARD NAME": "ATAOJA E",
-      "WARD CODE": "5"
-    },
-    {
-      
-      "WARD NAME": "OTUN JAGUN B",
-      "WARD CODE": "6"
-    },
-    {
-      
-      "WARD NAME": "ALAGBA",
-      "WARD CODE": "7"
-    },
-    {
-      
-      "WARD NAME": "ARE-AGO",
-      "WARD CODE": "8"
-    },
-    {
-      
-      "WARD NAME": "JAGUN A",
-      "WARD CODE": "9"
-    },
-    {
-      
-      "WARD NAME": "JAGUN B",
-      "WARD CODE": "10"
-    },
-    {
-      
-      "WARD NAME": "BABA KEKERE",
-      "WARD CODE": "11"
-    },
-    {
-      
-      "WARD NAME": "OTUN JAGUN A",
-      "WARD CODE": "12"
-    },
-    {
-      
-      "WARD NAME": "EKETA",
-      "WARD CODE": "13"
-    },
-    {
-      
-      "WARD NAME": "OTUN BALOGUN A",
-      "WARD CODE": "14"
-    },
-    {
-      
-      "WARD NAME": "EKERIN",
-      "WARD CODE": "15"
-    }]
-}]
-}]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-  
-   
- 
-  
-  
+  }
+]
